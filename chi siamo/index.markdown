@@ -1,10 +1,12 @@
-﻿---
+---
 layout: default
 title: Chi Siamo
 ---
 
+
 fare la scarpetta; raccogliere con un pezzetto di pane il sugo sul fondo del piatto
 -----------------------------------------------------------------------------------
+***
 
 Chi Siamo
 =========
