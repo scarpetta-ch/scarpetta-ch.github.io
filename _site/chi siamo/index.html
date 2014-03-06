@@ -1,5 +1,4 @@
----
----
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -12,7 +11,7 @@
 
     <title>Chi Siamo</title>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS & all css for that matter... -->
     <link href="/css/all.css" rel="stylesheet">
   
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -24,10 +23,8 @@
 
   <body>
 
----
----   
 	
-	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="navbar navbar-inverse navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,47 +33,66 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="">Scarpetta</a>
+          <a class="navbar-brand" href="/">Scarpetta</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="">Home</a></li>
             <li><a href="/chi%20siamo">Chi Siamo</a></li>
             <li><a href="/la%20cucina">La Cucina</a></li>
 			<li><a href="/la%20cantina">La Cantina</a></li>
 			<li><a href="/prenotazione">Prenotazione</a></li>
+			<li><a href="/galleria">Galleria</a></li>
 			<li><a href="/contatti">Contatti</a></li>
           </ul>
         </div><!--/.nav-collapse -->
-      </div>
+		</div>
     </div>
 	<br>
-	<br>
-	<br>
-	<br>
-    <div class="container">
 
-      <h2>fare la scarpetta; raccogliere con un pezzetto di pane il sugo sul fondo del piatto</h2>
+	<div class="container">
+
+	 <div class="row row-offcanvas row-offcanvas-right">
+
+		<div class="col-xs-12 col-sm-9 col-md-9">
+			<p class="pull-right visible-xs">
+				<button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Tweets</button>
+			</p>
+			  
+			<div class="row">
+			  <h1>Chi Siamo</h1>
+
+<blockquote>
+<h2>fare la scarpetta; raccogliere con un pezzetto di pane il sugo sul fondo del piatto</h2>
+</blockquote>
 
 <hr>
 
-<h1>Chi Siamo</h1>
+<p>La Scarpetta è una piccola Osteria nelle colline di Tenero-Contra che offre la cucina Italiana semplice e genuina nella regione del Ticino.</p>
 
-<p>Scarpetta è un piccolo rustico Osteria sulle colline di Tenero-Contra portando fresco, autentico cucina italiana stagionale nella regione Ticino.</p>
+<p>Il lavoro nei alcuni migliori ristoranti di Londra (The River Café, Trullo e Bocca di Lupo) e i nostri viaggi per l&#39;Italia ci hanno ispirati a sviluppare i nostri valori che basano sulla semplicità e il sapore. La nostra cucina è fresca e di stagione. La Scarpetta si presenta come un locale apprezzato per il suo ambiente informale e rilassato.</p>
 
-<p>Dopo avere addestrato e lavorato in alcuni dei migliori stabilimenti di Londra (The River Café, Trullo e Bocca di Lupo) in combinazione con i nostri viaggi attraverso l&#39;Italia, abbiamo sviluppato i nostri valori semplici - il nostro cibo deve essere fresco, semplice e di stagione, apprezzato in un ambiente informale e rilassata .. E crediamo che questo è ciò che abbiamo realizzato con Scarpetta.</p>
+<p>Apertura Maggio 2014.</p>
 
-<p>Saremo aperti alla fine di aprile 2014.</p>
-
-
-    </div><!-- /.container -->
-
-
----
----
- <div id="footer">
+			</div>  
+			
+		</div>
+		
+			 <div class="col-md-3 col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
+		<a class="twitter-timeline"  href="https://twitter.com/johncyril"  data-widget-id="441664681761992704">Tweets by @johncyril</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+		
+	</div> <!--row-->
+	</div><!-- /.container -->
+	<div id="footer">
       <div class="container">
-        <p class="text-muted">Via alla Fraccia 5, 6598 Tenero-Contra  Tel.  091 745 63 33</p>
+		<p> Via alla Fraccia 5, 6598 Tenero-Contra  Tel.  091 745 63 33</p>
+        <h5>&copy; 2014 Scarpetta 
+			<small>
+				under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a>.  			
+				Built with <3 for Scarpetta using <a href="http://getbootstrap.com/">Bootstrap</a> and proudly hosted by <a href="https://github.com">github </a> 
+			</small>
+		</h5>
       </div>
     </div>
 

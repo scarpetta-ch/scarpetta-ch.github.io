@@ -4,3 +4,7 @@
 
 {% include css/bootstrap-theme.min.css %}
 {% include css/bootstrap.min.css %}
+{% include css/sticky-footer.css %}
+{% include css/jumbotron.css %}
+{% include css/off-canvas.css %}
+{% include css/carousel.css %}

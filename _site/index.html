@@ -1,5 +1,3 @@
----
----
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,9 +8,9 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Scarpetta - Home</title>
+    <title>OSTERIA Scarpetta ALLA FRACCIA</title>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS & all css for that matter... -->
     <link href="/css/all.css" rel="stylesheet">
   
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -23,11 +21,8 @@
   </head>
 
   <body>
-
----
----   
 	
-	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+	<div class="navbar navbar-inverse navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,37 +31,95 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="">Scarpetta</a>
+          <a class="navbar-brand" href="/">Scarpetta</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="">Home</a></li>
             <li><a href="/chi%20siamo">Chi Siamo</a></li>
             <li><a href="/la%20cucina">La Cucina</a></li>
 			<li><a href="/la%20cantina">La Cantina</a></li>
 			<li><a href="/prenotazione">Prenotazione</a></li>
+			<li><a href="/galleria">Galleria</a></li>
 			<li><a href="/contatti">Contatti</a></li>
           </ul>
         </div><!--/.nav-collapse -->
-      </div>
+		</div>
     </div>
 	<br>
-	<br>
-	<br>
-	<br>
-    <div class="container">
-
-      <h1>OSTERIA Scarpetta ALLA FRACCIA</h1>
 
 
-    </div><!-- /.container -->
+<div class="container">
+	<div class="jumbotron">    
+		<h3>OSTERIA</h3>
+		<h1>Scarpetta<h1>
+		<h3>ALLLA FRACCIA<h3>
+		<p class="lead">fare la scarpetta; raccogliere con un pezzetto di pane il sugo sul fondo del piatto</p>
+		<p class="lead">
+		  <a href="/contatti" class="btn btn-lg btn-default">Scarpetta si!</a>
+		</p>
+	</div>
+	
+	
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="images/lucandkim1.jpg" alt="Luc and Kim">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Lucci and Kim</h1>
+              <p>Note: You can place a header here .</p>
+              <p><a class="btn btn-lg btn-primary" href="/galleria" role="button">Galleria</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/lucandkim2.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1><3.</h1>
+              <p>These images are'nt centred for some reason...</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div><!-- /.carousel -->
+</div>
 
 
----
----
- <div id="footer">
+
+
+
+
+	<div id="footer">
       <div class="container">
-        <p class="text-muted">Via alla Fraccia 5, 6598 Tenero-Contra  Tel.  091 745 63 33</p>
+		<p> Via alla Fraccia 5, 6598 Tenero-Contra  Tel.  091 745 63 33</p>
+        <h5>&copy; 2014 Scarpetta 
+			<small>
+				under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a>.  			
+				Built with <3 for Scarpetta using <a href="http://getbootstrap.com/">Bootstrap</a> and proudly hosted by <a href="https://github.com">github </a> 
+			</small>
+		</h5>
       </div>
     </div>
 
