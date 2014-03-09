@@ -18,15 +18,15 @@ Contatti
 
 *Orari d’Apertura della cucina*
 
-LUN    |Chiuso
--------|------
+<table>
+<tr> LUN   |Chiuso </tr>
+
 MAR   |19.00 - 22:00
 MER   |12.00 - 14.30 / 19.00 - 21.30
 GIO   |12.00 - 14.30 / 19.00 - 21.30
 VEN   |12.00 - 14.30 / 19.00 - 21.30
 SAB   |12.00 - 14.30 / 19.00 - 21.30
 DOM   |12.00 - 15.00 
-
-
+</table>
 
 
