@@ -10,6 +10,9 @@ footer {
   padding: 30px 0;
 }
 
+html, body, .wrapper {
+  height: 100%;
+}
 /*
  * Off Canvas
  * --------------------------------------------------
@@ -21,6 +24,13 @@ footer {
        -moz-transition: all .25s ease-out;
             transition: all .25s ease-out;
   }
+  
+  /* move the toggle button to the left and give it
+   some breathing room */
+.navbar-toggle {
+  float: right;
+  margin-right: 5px;
+}
 
   .row-offcanvas-right {
     right: 0;
@@ -41,16 +51,18 @@ footer {
   }
 
   .row-offcanvas-right.active {
-    right: 50%; /* 6 columns */
+    right: 80%; /* 6 columns */
   }
 
   .row-offcanvas-left.active {
-    left: 50%; /* 6 columns */
+    left:20%; /* 6 columns */
   }
 
   .sidebar-offcanvas {
     position: absolute;
     top: 0;
     width: 50%; /* 6 columns */
+	height: 100%
+	
   }
 }
