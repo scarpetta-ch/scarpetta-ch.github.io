@@ -26,7 +26,7 @@ Contatti
 	</tr>
 	<tr>
 		<td>MAR   </td>
-		<td>19.00 - 22:00</td>
+		<td>19.00 - 22.00</td>
 		<td class="day">2</td>
 	</tr>
 	<tr>
