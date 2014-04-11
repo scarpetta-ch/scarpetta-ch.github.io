@@ -1,0 +1,6 @@
+to do for sire
+
+Vernada font thorugouht 
+sticky footer - done 
+follow us on contact page and bird in footer done
+padding in contact details - done

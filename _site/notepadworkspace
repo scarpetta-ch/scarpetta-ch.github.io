@@ -1,0 +1,129 @@
+<NotepadPlus>
+    <Project name="scarpetta">
+        <Folder name="chi siamo">
+            <File name="chi siamo\index.markdown" />
+        </Folder>
+        <Folder name="contatti">
+            <File name="contatti\index.markdown" />
+        </Folder>
+        <Folder name="cover">
+            <File name="cover\cover.css" />
+        </Folder>
+        <Folder name="css">
+            <File name="css\all.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="fonts\glyphicons-halflings-regular.eot" />
+            <File name="fonts\glyphicons-halflings-regular.svg" />
+            <File name="fonts\glyphicons-halflings-regular.ttf" />
+            <File name="fonts\glyphicons-halflings-regular.woff" />
+        </Folder>
+        <Folder name="images">
+            <File name="images\bg_hr.png" />
+            <File name="images\blacktocat.png" />
+            <File name="images\icon_download.png" />
+            <File name="images\image1.jpeg" />
+            <File name="images\lucandkim1.jpg" />
+            <File name="images\lucandkim2.jpg" />
+            <File name="images\sprite_download.png" />
+        </Folder>
+        <Folder name="js">
+            <File name="js\all.js" />
+        </Folder>
+        <Folder name="la cantina">
+            <File name="la cantina\index.markdown" />
+        </Folder>
+        <Folder name="la cucina">
+            <File name="la cucina\index.markdown" />
+        </Folder>
+        <Folder name="prenotazione">
+            <File name="prenotazione\index.markdown" />
+        </Folder>
+        <Folder name="stylesheets">
+            <File name="stylesheets\pygment_trac.css" />
+            <File name="stylesheets\stylesheet.css" />
+        </Folder>
+        <Folder name="_includes">
+            <Folder name="css">
+                <File name="_includes\css\bootstrap-theme.css" />
+                <File name="_includes\css\bootstrap-theme.css.map" />
+                <File name="_includes\css\bootstrap-theme.min.css" />
+                <File name="_includes\css\bootstrap.css" />
+                <File name="_includes\css\bootstrap.css.map" />
+                <File name="_includes\css\bootstrap.min.css" />
+                <File name="_includes\css\carousel.css" />
+                <File name="_includes\css\jumbotron.css" />
+                <File name="_includes\css\off-canvas.css" />
+                <File name="_includes\css\sticky-footer.css" />
+            </Folder>
+            <Folder name="js">
+                <File name="_includes\js\bootstrap.js" />
+                <File name="_includes\js\bootstrap.min.js" />
+                <File name="_includes\js\off-canvas.js" />
+                <File name="_includes\js\tablehighlight.js" />
+            </Folder>
+            <File name="_includes\footer.html" />
+            <File name="_includes\header.html" />
+            <File name="_includes\navigation.html" />
+            <File name="_includes\twitter-feed-home.html" />
+            <File name="_includes\twitter-feed.html" />
+        </Folder>
+        <Folder name="_layouts">
+            <File name="_layouts\coverpage.html" />
+            <File name="_layouts\default.html" />
+        </Folder>
+        <Folder name="_plugins" />
+        <Folder name="_posts" />
+        <Folder name="_site">
+            <Folder name="chi siamo">
+                <File name="_site\chi siamo\index.html" />
+            </Folder>
+            <Folder name="contatti">
+                <File name="_site\contatti\index.html" />
+            </Folder>
+            <Folder name="cover">
+                <File name="_site\cover\cover.css" />
+            </Folder>
+            <Folder name="css">
+                <File name="_site\css\all.css" />
+            </Folder>
+            <Folder name="fonts">
+                <File name="_site\fonts\glyphicons-halflings-regular.eot" />
+                <File name="_site\fonts\glyphicons-halflings-regular.svg" />
+                <File name="_site\fonts\glyphicons-halflings-regular.ttf" />
+                <File name="_site\fonts\glyphicons-halflings-regular.woff" />
+            </Folder>
+            <Folder name="images">
+                <File name="_site\images\bg_hr.png" />
+                <File name="_site\images\blacktocat.png" />
+                <File name="_site\images\icon_download.png" />
+                <File name="_site\images\image1.jpeg" />
+                <File name="_site\images\lucandkim1.jpg" />
+                <File name="_site\images\lucandkim2.jpg" />
+                <File name="_site\images\sprite_download.png" />
+            </Folder>
+            <Folder name="js">
+                <File name="_site\js\all.js" />
+            </Folder>
+            <Folder name="la cantina">
+                <File name="_site\la cantina\index.html" />
+            </Folder>
+            <Folder name="la cucina">
+                <File name="_site\la cucina\index.html" />
+            </Folder>
+            <Folder name="prenotazione">
+                <File name="_site\prenotazione\index.html" />
+            </Folder>
+            <Folder name="stylesheets">
+                <File name="_site\stylesheets\pygment_trac.css" />
+                <File name="_site\stylesheets\stylesheet.css" />
+            </Folder>
+            <File name="_site\index.html" />
+            <File name="_site\params.json" />
+        </Folder>
+        <File name="index.markdown" />
+        <File name="params.json" />
+        <File name="todo.txt" />
+        <File name="_config.yml" />
+    </Project>
+</NotepadPlus>

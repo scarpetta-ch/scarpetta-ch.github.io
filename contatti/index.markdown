@@ -14,6 +14,10 @@ Contatti
 *Inviare un Messagio*
 > <info@scarpetta.ch>
 
+*Seguici su Twitter*
+> <a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a>
+
+
 *Ampio parcheggio a disposizione*
 
 *Orari d’Apertura della cucina*
