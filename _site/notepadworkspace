@@ -39,10 +39,7 @@
         <Folder name="prenotazione">
             <File name="prenotazione\index.markdown" />
         </Folder>
-        <Folder name="stylesheets">
-            <File name="stylesheets\pygment_trac.css" />
-            <File name="stylesheets\stylesheet.css" />
-        </Folder>
+        <Folder name="stylesheets" />
         <Folder name="_includes">
             <Folder name="css">
                 <File name="_includes\css\bootstrap-theme.css" />
