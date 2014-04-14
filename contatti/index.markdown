@@ -18,9 +18,11 @@ Contatti
 > <a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a>
 
 
-*Ampio parcheggio a disposizione*
+*Ampio parcheggio a disposizione.*
 
-Siamo anche aperto per il caffè al mattino e per l'aperitivo al pommeriggio
+
+Siamo anche aperto per il caffè al mattino e per l'aperitivo e stuzzichini al pommeriggio.
+
 
 *Orari d’Apertura della Cucina*
 
