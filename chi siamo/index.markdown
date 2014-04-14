@@ -19,6 +19,6 @@ Il lavoro nei alcuni migliori ristoranti di Londra (The River Café, Trullo e Bo
 
 
 
-Apertura Maggio 2014.
+**Apertura Maggio 2014.**
 
 
