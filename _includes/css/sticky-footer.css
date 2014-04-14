@@ -14,6 +14,7 @@
         height: 100%;
         /* Negative indent footer by it's height */
         margin: 0 auto -auto;
+		padding-bottom: 40px;
       }
 
       /* Set the fixed height of the footer here */
@@ -29,9 +30,9 @@
       /* Lastly, apply responsive CSS fixes as necessary */
       @media (max-width: 767px) {
         #footer {
-          margin-left: -20px;
+		  margin-left: -20px;
           margin-right: -20px;
           padding-left: 20px;
-          padding-right: 20px;
+          padding-right: 20px;		  
         }
       }

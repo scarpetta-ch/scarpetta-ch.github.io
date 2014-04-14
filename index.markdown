@@ -1,6 +1,6 @@
 ---
 layout: coverpage
-title: OSTERIA Scarpetta ALLA FRACCIA
+title: Osteria Scarpetta Alla Fraccia
 ---
 
 

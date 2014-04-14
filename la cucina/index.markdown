@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La Cucina
+title: La Cucina | Osteria Scarpetta Alla Fraccia
 ---
 
 La Cucina

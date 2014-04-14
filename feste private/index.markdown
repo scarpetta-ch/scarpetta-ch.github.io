@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feste Private
+title: Feste Private | Osteria Scarpetta Alla Fraccia
 ---
 
 Feste Private

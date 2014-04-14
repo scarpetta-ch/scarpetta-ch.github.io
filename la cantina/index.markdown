@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La Cantina
+title: La Cantina | Osteria Scarpetta Alla Fraccia
 ---
 
 La Cantina

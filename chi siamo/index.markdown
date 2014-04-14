@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chi Siamo
+title: Chi Siamo | Osteria Scarpetta Alla Fraccia
 ---
 
 
