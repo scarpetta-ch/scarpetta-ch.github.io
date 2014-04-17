@@ -24,7 +24,7 @@ Contatti
 
 
 
-*Siamo anche aperto per il caffè al mattino e per l'aperitivo e stuzzichini al pommeriggio.*
+*Siamo anche aperto per il caffè al mattino e per i aperitivi e stuzzichini al pommeriggio.*
 - - - 
 
 **Orari d’Apertura della Cucina**
