@@ -5779,7 +5779,12 @@ button.close {
     display: none !important;
   }
 }
-p { margin:0 }
-p span{padding-right:37px}
+p {	text-align: justify; 
+	text-justify: newspaper;
+	}
+h6{ margin:2px }
+h6 span{padding-right:37px;
+text-align: center;}
 h5 { margin:0 }
+
 ul.list-inline{ margin:0}
