@@ -7,7 +7,7 @@ image: /images/contatti.png
 Contatti 
 ========
 
-*Dovè siamo?*
+*Dove siamo?*
 >Via alla Fraccia 5, 6598 Tenero-Contra 
 
 >Tel. 091 745 35 35 
@@ -23,7 +23,9 @@ Contatti
 
 *Ampio parcheggio a disposizione.*
 
-*Siamo anche aperto per il caffè al mattino e per l'aperitivo e stuzzichini al pommeriggio.*
+
+
+*Siamo anche aperto per il caffè al mattino e per i aperitivi e stuzzichini al pomeriggio.*
 - - - 
 
 **Orari d’Apertura della Cucina**
@@ -61,7 +63,7 @@ Contatti
 	</tr>
 	<tr>
 		<td>DOM  </td>
-		<td>11.30 - 15.00 </td>
+		<td>11.30 - 14.30 / 18.00 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
