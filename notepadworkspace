@@ -26,6 +26,7 @@
             <File name="images\lucandkim1.jpg" />
             <File name="images\lucandkim2.jpg" />
             <File name="images\sprite_download.png" />
+            <File name="images\TicinoMap.png" />
         </Folder>
         <Folder name="js">
             <File name="js\all.js" />
@@ -35,9 +36,6 @@
         </Folder>
         <Folder name="la cucina">
             <File name="la cucina\index.markdown" />
-        </Folder>
-        <Folder name="prenotazione">
-            <File name="prenotazione\index.markdown" />
         </Folder>
         <Folder name="stylesheets" />
         <Folder name="_includes">
@@ -52,18 +50,22 @@
                 <File name="_includes\css\jumbotron.css" />
                 <File name="_includes\css\off-canvas.css" />
                 <File name="_includes\css\sticky-footer.css" />
+                <File name="_includes\css\fixed-navbar.css" />
             </Folder>
             <Folder name="js">
                 <File name="_includes\js\bootstrap.js" />
                 <File name="_includes\js\bootstrap.min.js" />
                 <File name="_includes\js\off-canvas.js" />
                 <File name="_includes\js\tablehighlight.js" />
+                <File name="_includes\js\jquery.imagemapster.js" />
+                <File name="_includes\js\mapHighlight.js" />
             </Folder>
             <File name="_includes\footer.html" />
             <File name="_includes\header.html" />
             <File name="_includes\navigation.html" />
             <File name="_includes\twitter-feed-home.html" />
             <File name="_includes\twitter-feed.html" />
+            <File name="_includes\ticinoMap.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
@@ -122,5 +124,11 @@
         <File name="params.json" />
         <File name="todo.txt" />
         <File name="_config.yml" />
+        <Folder name="feste private">
+            <File name="feste private\index.markdown" />
+        </Folder>
+        <Folder name="vini del ticino">
+            <File name="vini del ticino\index.markdown" />
+        </Folder>
     </Project>
 </NotepadPlus>

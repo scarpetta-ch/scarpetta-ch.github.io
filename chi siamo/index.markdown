@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chi Siamo | Osteria Scarpetta Alla Fraccia
+image: /images/chi_siamo.png
 ---
 
 
@@ -20,5 +21,4 @@ Il lavoro nei alcuni migliori ristoranti di Londra (The River Café, Trullo e Bo
 
 
 **Apertura Maggio 2014.**
-
 
