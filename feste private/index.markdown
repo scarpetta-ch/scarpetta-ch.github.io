@@ -1,7 +1,8 @@
 ---
-layout: default_img_below
+layout: default
 title: Feste Private | Osteria Scarpetta Alla Fraccia
 image: /images/feste_private.png
+imagePosition: below
 ---
 
 Feste Private

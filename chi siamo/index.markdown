@@ -2,6 +2,7 @@
 layout: default
 title: Chi Siamo | Osteria Scarpetta Alla Fraccia
 image: /images/chi_siamo.png
+imagePosition: side
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-layout: default_img_below
+layout: default
 title: La Cantina | Osteria Scarpetta Alla Fraccia
-image: /images/la_cantina.png
+image: 
+imagePosition: below
 ---
 
 La Cantina

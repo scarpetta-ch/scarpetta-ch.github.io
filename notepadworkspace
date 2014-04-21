@@ -55,21 +55,22 @@
             <Folder name="js">
                 <File name="_includes\js\bootstrap.js" />
                 <File name="_includes\js\bootstrap.min.js" />
+                <File name="_includes\js\mapHighlight.js" />
                 <File name="_includes\js\off-canvas.js" />
                 <File name="_includes\js\tablehighlight.js" />
                 <File name="_includes\js\jquery.imagemapster.js" />
-                <File name="_includes\js\mapHighlight.js" />
             </Folder>
             <File name="_includes\footer.html" />
             <File name="_includes\header.html" />
             <File name="_includes\navigation.html" />
             <File name="_includes\twitter-feed-home.html" />
             <File name="_includes\twitter-feed.html" />
-            <File name="_includes\ticinoMap.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
             <File name="_layouts\default.html" />
+            <File name="_layouts\default_img_below.html" />
+            <File name="_layouts\default_two_side_images.html" />
         </Folder>
         <Folder name="_plugins" />
         <Folder name="_posts" />

@@ -1,8 +1,8 @@
 ---
-layout: default_two_side_images
+layout: default
 title: Contatti | Osteria Scarpetta Alla Fraccia
-image: /images/contatti-map.png
-imagetwo: /images/contatti.png
+image: [/images/contatti-map.png, /images/contatti.png]
+imagePosition: side
 ---
 
 Contatti 

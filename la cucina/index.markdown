@@ -1,7 +1,8 @@
 ---
-layout: default_img_below
+layout: default
 title: La Cucina | Osteria Scarpetta Alla Fraccia
 image: /images/la_cucina2.png
+imagePosition: below
 ---
 
 La Cucina

@@ -2,12 +2,21 @@
 <div id="wrap">
 {% include navigation.html %}
 	<div class="container">
-		<div class="col-xs-12 col-sm-6 col-md-6">
-			  {{content}}
+		
+		<div {% if page.imagePosition == 'side' %} class="col-xs-12 col-sm-6 col-md-6" {% else %} class="col-xs-12 col-sm-9 col-md-9"	{% endif %}>
+		{{content}}	
 		</div>
-		<div class="col-xs-12 col-sm-6 col-md-6">			
-			<img src="{{ page.image }}" class="img-responsive" />
+		
+		<div {% if page.imagePosition == 'side' %} class="col-xs-12 col-sm-6 col-md-6" {% else %} class="col-xs-12 col-sm-9 col-md-9"	{% endif %}>
+			{% if page.image != null %}
+				{% for item in page.image %}
+				<img src="{{ item }}" class="img-responsive" />
+				{% endfor %}
+			{% else %}
+			
+			{% endif %}
 		</div>
+		
 	 </div> <!--row-->
 	</div><!-- /.container -->
 {% include footer.html %}
