@@ -69,8 +69,6 @@
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
             <File name="_layouts\default.html" />
-            <File name="_layouts\default_img_below.html" />
-            <File name="_layouts\default_two_side_images.html" />
         </Folder>
         <Folder name="_plugins" />
         <Folder name="_posts" />
