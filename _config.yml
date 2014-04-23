@@ -1,4 +1,4 @@
-name: Scarpetta
+name: Osteria Scarpetta Alla Fraccia
 source:      .
 destination: ./_site
 plugins:     ./_plugins
