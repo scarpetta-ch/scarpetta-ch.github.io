@@ -9,12 +9,15 @@ Contatti
 ========
 
 *Dove siamo?*
->Via alla Fraccia 5
+> <address>
+  Via alla Fraccia 5<br>
+  6598 Tenero-Contra<br>
+  <abbr title="Tel">Tel,</abbr> 091 745 35 35 <br>
+</address>
 
->6598 Tenero-Contra
- 
+*Ampio parcheggio a disposizione.*
 
->Tel. 091 745 35 35 
+- - - 
 
 *Inviare un Messagio*
 > <info@scarpetta.ch>
@@ -23,15 +26,6 @@ Contatti
 *Seguici su Twitter*
 > <a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a>
 
-- - - 
-
-*Ampio parcheggio a disposizione.*
-<br> </br>
-
-
-
-*Siamo anche aperto per il caffè al mattino e per i aperitivi e stuzzichini al pomeriggio.*
-- - - 
 
 **Orari d’Apertura della Cucina**
 
@@ -72,5 +66,7 @@ Contatti
 		<td class="day">0</td>
 	</tr>
 </table>
+
+*Siamo anche aperto per il caffè al mattino e per i aperitivi e stuzzichini al pomeriggio.*
 
 

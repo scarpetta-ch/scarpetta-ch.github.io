@@ -1,6 +1,7 @@
 to do for sire
 
-Verdana font throughout
-sticky footer - done 
-follow us on contact page and bird in footer done
-padding in contact details - done
+lead on homepafge - make one size bigger
+definition on chi siamo - make font smaller
+
+
+nice to have - different languages
