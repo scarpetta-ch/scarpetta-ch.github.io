@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Über uns
+title: Chi Siamo
 image: /images/chi_siamo.png
 imagePosition: side
 lang: it
