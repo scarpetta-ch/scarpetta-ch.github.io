@@ -6,3 +6,4 @@ layouts:     ./_layouts
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 markdown: redcarpet
 pygments: false
+encoding: UTF-8
