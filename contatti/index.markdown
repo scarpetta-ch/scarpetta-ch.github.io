@@ -12,7 +12,7 @@ Contatti
 > <address>
   Via alla Fraccia 5<br>
   6598 Tenero-Contra<br>
-  <abbr title="Tel">Tel,</abbr> 091 745 35 35 <br>
+  <abbr title="Tel">Tel.</abbr> 091 745 35 35 <br>
 </address>
 
 *Ampio parcheggio a disposizione.*
