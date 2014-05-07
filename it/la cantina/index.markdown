@@ -10,7 +10,7 @@ lang: it
 {{page.title}}
 ==============
 
-La nostra carta dei vini comprende vini italiani e vini locali provenienti d’alcuni dei migliori produttori di vino svizzeri e italiani. Cerchiamo di variare la nostra selezione di vini di conseguenza per il nostro menù della cucina.  
+La nostra carta dei vini comprende vini italiani e vini locali provenienti d’alcuni dei migliori produttori di vino svizzeri e italiani. Variamo la nostra selezione di vini a seconda del nostro menù.  
 
 <br>
-La lista attuale dei vini sarà pubblicato a breve.
+La lista attuale dei vini sarà pubblicata in breve.
