@@ -68,6 +68,6 @@ lang: it
 	</tr>
 </table>
 
-*Siamo anche aperto per il caffè al mattino e per i aperitivi e stuzzichini al pomeriggio.*
+*Siamo aperti anche al mattino per il caffè e nel pomeriggio per aperitivi e stuzzichini.*
 
 
