@@ -1,0 +1,133 @@
+<NotepadPlus>
+    <Project name="scarpetta">
+        <Folder name="css">
+            <File name="css\all.css" />
+        </Folder>
+        <Folder name="en">
+            <Folder name="about us">
+                <File name="en\about us\index.markdown" />
+            </Folder>
+            <Folder name="contact">
+                <File name="en\contact\index.markdown" />
+            </Folder>
+            <Folder name="private functions">
+                <File name="en\private functions\index.markdown" />
+            </Folder>
+            <Folder name="the bar">
+                <File name="en\the bar\index.markdown" />
+            </Folder>
+            <Folder name="the kitchen">
+                <File name="en\the kitchen\index.markdown" />
+            </Folder>
+        </Folder>
+        <Folder name="fonts">
+            <File name="fonts\glyphicons-halflings-regular.eot" />
+            <File name="fonts\glyphicons-halflings-regular.svg" />
+            <File name="fonts\glyphicons-halflings-regular.ttf" />
+            <File name="fonts\glyphicons-halflings-regular.woff" />
+        </Folder>
+        <Folder name="images">
+            <File name="images\bg_hr.png" />
+            <File name="images\blacktocat.png" />
+            <File name="images\chi_siamo.png" />
+            <File name="images\contatti-map.png" />
+            <File name="images\contatti.png" />
+            <File name="images\favicon.ico" />
+            <File name="images\feste_private.png" />
+            <File name="images\icon_download.png" />
+            <File name="images\la_cucina.png" />
+            <File name="images\la_cucina2.png" />
+            <File name="images\LeadImage.jpg" />
+            <File name="images\sprite_download.png" />
+            <File name="images\TicinoMap.png" />
+            <File name="images\twitter-bird-16x16.png" />
+            <File name="images\twitter-bird.png" />
+        </Folder>
+        <Folder name="it">
+            <Folder name="chi siamo">
+                <File name="it\chi siamo\index.markdown" />
+            </Folder>
+            <Folder name="contatti">
+                <File name="it\contatti\index.markdown" />
+            </Folder>
+            <Folder name="feste private">
+                <File name="it\feste private\index.markdown" />
+            </Folder>
+            <Folder name="la cantina">
+                <File name="it\la cantina\index.markdown" />
+            </Folder>
+            <Folder name="la cucina">
+                <File name="it\la cucina\index.markdown" />
+            </Folder>
+            <Folder name="vini del ticino">
+                <File name="it\vini del ticino\index.markdown" />
+            </Folder>
+        </Folder>
+        <Folder name="js">
+            <File name="js\all.js" />
+        </Folder>
+        <Folder name="menus">
+            <File name="menus\MENU_nuova.pdf" />
+        </Folder>
+        <Folder name="stylesheets">
+            <File name="stylesheets\pygment_trac.css" />
+            <File name="stylesheets\stylesheet.css" />
+        </Folder>
+        <Folder name="_includes">
+            <Folder name="css">
+                <File name="_includes\css\bootstrap-theme.css" />
+                <File name="_includes\css\bootstrap-theme.css.map" />
+                <File name="_includes\css\bootstrap-theme.min.css" />
+                <File name="_includes\css\bootstrap.css" />
+                <File name="_includes\css\bootstrap.css.map" />
+                <File name="_includes\css\bootstrap.min.css" />
+                <File name="_includes\css\carousel.css" />
+                <File name="_includes\css\fixed-navbar.css" />
+                <File name="_includes\css\jumbotron.css" />
+                <File name="_includes\css\off-canvas.css" />
+                <File name="_includes\css\sticky-footer.css" />
+            </Folder>
+            <Folder name="js">
+                <File name="_includes\js\bootstrap.js" />
+                <File name="_includes\js\bootstrap.min.js" />
+                <File name="_includes\js\jquery.imagemapster.js" />
+                <File name="_includes\js\mapHighlight.js" />
+                <File name="_includes\js\off-canvas.js" />
+                <File name="_includes\js\tablehighlight.js" />
+            </Folder>
+            <File name="_includes\footer.html" />
+            <File name="_includes\header.html" />
+            <File name="_includes\navigation.html" />
+            <File name="_includes\twitter-feed-home.html" />
+            <File name="_includes\twitter-feed.html" />
+        </Folder>
+        <Folder name="_layouts">
+            <File name="_layouts\coverpage.html" />
+            <File name="_layouts\default.html" />
+        </Folder>
+        <File name="CNAME" />
+        <File name="favicon.ico" />
+        <File name="index.markdown" />
+        <File name="notepadworkspace" />
+        <File name="params.json" />
+        <File name="todo.txt" />
+        <File name="_config.yml" />
+        <Folder name="de">
+            <Folder name="die bar">
+                <File name="de\die bar\index.markdown" />
+            </Folder>
+            <Folder name="die kueche">
+                <File name="de\die kueche\index.markdown" />
+            </Folder>
+            <Folder name="kontakt">
+                <File name="de\kontakt\index.markdown" />
+            </Folder>
+            <Folder name="private veranstaltungen">
+                <File name="de\private veranstaltungen\index.markdown" />
+            </Folder>
+            <Folder name="ueber uns">
+                <File name="de\ueber uns\index.markdown" />
+            </Folder>
+        </Folder>
+    </Project>
+</NotepadPlus>
