@@ -1,7 +1,24 @@
 <NotepadPlus>
-    <Project name="scarpetta">
+    <Project name="scarpetta-staging">
         <Folder name="css">
             <File name="css\all.css" />
+        </Folder>
+        <Folder name="de">
+            <Folder name="die bar">
+                <File name="de\die bar\index.markdown" />
+            </Folder>
+            <Folder name="die kueche">
+                <File name="de\die kueche\index.markdown" />
+            </Folder>
+            <Folder name="kontakt">
+                <File name="de\kontakt\index.markdown" />
+            </Folder>
+            <Folder name="private veranstaltungen">
+                <File name="de\private veranstaltungen\index.markdown" />
+            </Folder>
+            <Folder name="ueber uns">
+                <File name="de\ueber uns\index.markdown" />
+            </Folder>
         </Folder>
         <Folder name="en">
             <Folder name="about us">
@@ -100,34 +117,19 @@
             <File name="_includes\navigation.html" />
             <File name="_includes\twitter-feed-home.html" />
             <File name="_includes\twitter-feed.html" />
+            <File name="_includes\openingtimes.markdown" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
             <File name="_layouts\default.html" />
         </Folder>
-        <File name="CNAME" />
         <File name="favicon.ico" />
         <File name="index.markdown" />
+        <File name="LICENSE" />
         <File name="notepadworkspace" />
         <File name="params.json" />
+        <File name="README.md" />
         <File name="todo.txt" />
         <File name="_config.yml" />
-        <Folder name="de">
-            <Folder name="die bar">
-                <File name="de\die bar\index.markdown" />
-            </Folder>
-            <Folder name="die kueche">
-                <File name="de\die kueche\index.markdown" />
-            </Folder>
-            <Folder name="kontakt">
-                <File name="de\kontakt\index.markdown" />
-            </Folder>
-            <Folder name="private veranstaltungen">
-                <File name="de\private veranstaltungen\index.markdown" />
-            </Folder>
-            <Folder name="ueber uns">
-                <File name="de\ueber uns\index.markdown" />
-            </Folder>
-        </Folder>
     </Project>
 </NotepadPlus>

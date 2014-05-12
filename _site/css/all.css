@@ -5794,8 +5794,21 @@ h6 span{padding-right:37px;
 text-align: center;}
 h5 { margin:0 }
 
-ul.list-inline{ margin:0}
-
+.navbar .divider-vertical {
+height: 50px;
+margin: 0 9px;
+border-right: 1px solid #ffffff;
+border-left: 1px solid #f2f2f2;
+}
+.navbar-inverse .divider-vertical {
+border-right-color: #eeeeee;
+border-left-color: #eeeeee;
+}
+@media (max-width: 767px) {
+.navbar-collapse .nav > .divider-vertical {
+display: none;
+}
+}
 /* Space out content a bit */
 body {
   padding-top: 0;
@@ -5884,7 +5897,7 @@ body {
         height: auto !important;
         height: 100%;
         /* Negative indent footer by it's height */
-        margin: 0 auto -auto;
+        margin: 0 auto 15px;
 		padding-bottom: 30px;
       }
 
@@ -5892,6 +5905,7 @@ body {
       #push,
       #footer {
         height: auto;
+		bottom: 0;
       }
       #footer {
 		font-size:12px;

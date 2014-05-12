@@ -27,46 +27,7 @@ lang: it
 *Seguici su Twitter*
 > <a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a>
 
-
-**Orari d’Apertura della Cucina**
-
-<table id="opening_times" class="table">
-	<tr>
-		<td> LUN </td>
-		<td>Chiuso </td>
-		<td class="day">1</td>
-	</tr>
-	<tr>
-		<td>MAR   </td>
-		<td>18.00 - 22.00</td>
-		<td class="day">2</td>
-	</tr>
-	<tr>
-		<td>MER   </td>
-		<td>11.30 - 14.30 / 18.00 - 22.00</td>
-		<td class="day">3</td>
-	</tr>
-	<tr>
-		<td> GIO   </td>
-		<td>11.30 - 14.30 / 18.00 - 22.00</td>
-		<td class="day">4</td>
-	</tr>
-	<tr>
-		<td>VEN  </td> 
-		<td>11.30 - 14.30 / 18.00 - 22.00</td>
-		<td class="day">5</td>
-	</tr>
-	<tr>
-		<td>SAB   </td>
-		<td>11.30 - 14.30 / 18.00 - 22.00</td>
-		<td class="day">6</td>
-	</tr>
-	<tr>
-		<td>DOM  </td>
-		<td>11.30 - 14.30 / 18.00 - 21.00</td>
-		<td class="day">0</td>
-	</tr>
-</table>
+{% include openingtimes.markdown %}
 
 *Siamo aperti anche al mattino per il caffè e nel pomeriggio per aperitivi e stuzzichini.*
 

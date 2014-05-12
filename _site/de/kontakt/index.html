@@ -52,12 +52,23 @@
 			<li><a href="/de/private%20veranstaltungen">Private Veranstaltungen</a></li>
 			<li><a href="/de/kontakt">Kontakt</a></li>     
 		 
+			<li class="divider-vertical"></li>
+			<li class="dropdown">
+				<a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown"> de <b class="caret"></b></a>
+				<ul class="dropdown-menu">
+				  <li><a tabindex="-1" href="#">Italiano</a></li>
+				  <li><a tabindex="-1" href="#">Deutsch</a></li>
+				  <li><a tabindex="-1" href="#">English</a></li>
+				  <li><a tabindex="-1" href="#">Francais</a></li>
+				</ul>
+			</li>
 		</ul>
         </div><!--/.nav-collapse -->
 		</div>
-    </div>
+    </div>	
+			<p class="navbar-text navbar-right" style="font-size: 11px" align="right"><a href="#" class="navbar-link">En</a> <a href="#" class="navbar-link">De</a> <a href="#" class="navbar-link">It</a> <a href="#" class="navbar-link">Fr</a></p>
 
-
+	
 	<div class="container">
 		
 		<div  class="col-xs-12 col-sm-6 col-md-6" >
@@ -90,45 +101,61 @@
 <p><a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a></p>
 </blockquote>
 
-<p><strong>Öffnungszeiten Restaurant</strong></p>
+<p><strong>Offnungs</strong></p>
 
 <table id="opening_times" class="table">
     <tr>
-        <td> MON </td>
-        <td>Closed </td>
+         
+            <td>MON </td> 
+            <td><strong>Geschlossen</strong></td>
+        
         <td class="day">1</td>
     </tr>
     <tr>
-        <td>DIE   </td>
-        <td>18.00 - 22.00</td>
+         <td>DIE </td> 
+        <td>16.00 - 23.00</td>
         <td class="day">2</td>
     </tr>
     <tr>
-        <td>MIT   </td>
-        <td>11.30 - 14.30 / 18.00 - 22.00</td>
+         <td>MIT </td> 
+        <td>10.00 - 23.00</td>
         <td class="day">3</td>
     </tr>
     <tr>
-        <td> DON   </td>
-        <td>11.30 - 14.30 / 18.00 - 22.00</td>
+         <td>DON </td> 
+        <td>10.00 - 23.00</td>
         <td class="day">4</td>
     </tr>
     <tr>
-        <td>FRE  </td> 
-        <td>11.30 - 14.30 / 18.00 - 22.00</td>
+         <td>FRE </td> 
+        <td>10.00 - 23.00</td>
         <td class="day">5</td>
     </tr>
     <tr>
-        <td>SAM   </td>
-        <td>11.30 - 14.30 / 18.00 - 22.00</td>
+         <td>SAM </td> 
+        <td>10.00 - 23.00</td>
         <td class="day">6</td>
     </tr>
     <tr>
-        <td>SON  </td>
-        <td>11.30 - 14.30 / 18.00 - 21.00</td>
+         <td>SON </td> 
+        <td>10.00 - 23.00</td>
         <td class="day">0</td>
     </tr>
 </table>
+
+<div style="display:block">
+<strong>
+Offnungszeit der Kuche
+
+</strong>
+<br>
+11.30 - 14.30, 18.00 - 22.00
+<br>
+(Sontag
+: 11.30 - 15.00, 18.00 - 21.30)  
+</div> 
+
+<p><br></p>
 
 <p><em>Wir sind auch für Kaffee am Morgen und für Getränke und Snacks am Nachmittag geöffnet.</em></p>
 	
@@ -146,29 +173,31 @@
 		
 	 </div> <!--row-->
 	</div><!-- /.container -->
-	
 	<div id="footer">
       <div class="container">
-		<h6 align="center">&copy; 2014 Scarpetta. Via alla Fraccia 5, 6598 Tenero-Contra</h6>
-		<h6 align="center"><span>Tel. 091 745 35 35</span>
-		 <span><a href="mailto:info@scarpetta.ch">info@scarpetta.ch</a> </span>
-		 <span><a href="www.scarpetta.ch">www.scarpetta.ch</a> </span>
-		 <span><a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png"></a></span></h6>
-		 <h5 p align="center">
+		<h6 align="center">
+			<span>Tel. 091 745 35 35</span>
+			<span><a href="mailto:info@scarpetta.ch">info@scarpetta.ch</a> </span>
+			<span><a href="www.scarpetta.ch">www.scarpetta.ch</a> </span>
+			<span><a href="https://twitter.com/ScarpettaCH"><img src="/images/twitter-bird-16x16.png"></a></span>
+		</h6>
+		<h6 align="center">
+			<span>&copy; 2014 Scarpetta</span> 
+			<span>Via alla Fraccia 5, 6598 Tenero-Contra</span>
+		</h6>
+		<!--<h5 p align="center">
 			<small>				  			
 				Built with <3 for Scarpetta using <a href="http://getbootstrap.com/">Bootstrap</a> under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a> 
 				and proudly hosted by <a href="https://github.com">github </a>.
 			</small>
-		</h5>
-      </div>
-    </div>
-
+		</h5>-->
+	</div>
+	</div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="/js/all.js"></script>	
-  </body>
+	</body>
 </html>
-
 
