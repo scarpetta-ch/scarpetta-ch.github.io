@@ -60,12 +60,12 @@
 {% endif %}
 
 <br>
-11.30 - 14.30, 18.00 - 22.00
+11.30-14.30, 18.00-22.00
 <br>
 ({% if page.lang == "it" %}Domenica
 {% elsif page.lang == "en" %}Sunday
 {% elsif page.lang == "de" %}Sontag
-{% endif %}: 11.30 - 15.00, 18.00 - 21.30)  
+{% endif %}:11.30-15.00, 18.00-21.30)  
 </div> 
 <br>
 </strong>
