@@ -58,7 +58,7 @@
 {% elsif page.lang == "en" %}Restaurant opening times
 {% elsif page.lang == "de" %}Offnungszeit der Kuche
 {% endif %}
-</strong>
+
 <br>
 11.30 - 14.30, 18.00 - 22.00
 <br>
@@ -68,3 +68,4 @@
 {% endif %}: 11.30 - 15.00, 18.00 - 21.30)  
 </div> 
 <br>
+</strong>
