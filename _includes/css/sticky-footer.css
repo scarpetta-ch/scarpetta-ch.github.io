@@ -13,7 +13,7 @@
         height: auto !important;
         height: 100%;
         /* Negative indent footer by it's height */
-        margin: 0 auto -auto;
+        margin: 0 auto 15px;
 		padding-bottom: 30px;
       }
 
@@ -21,6 +21,7 @@
       #push,
       #footer {
         height: auto;
+		bottom: 0;
       }
       #footer {
 		font-size:12px;
