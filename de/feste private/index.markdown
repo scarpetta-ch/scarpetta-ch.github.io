@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Private Veranstaltungen
+title: Private Feste
 image: /images/feste_private.png
 imagePosition: below
 lang: de

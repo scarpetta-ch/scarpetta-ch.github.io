@@ -13,11 +13,11 @@
             <Folder name="kontakt">
                 <File name="de\kontakt\index.markdown" />
             </Folder>
-            <Folder name="private veranstaltungen">
-                <File name="de\private veranstaltungen\index.markdown" />
-            </Folder>
             <Folder name="ueber uns">
                 <File name="de\ueber uns\index.markdown" />
+            </Folder>
+            <Folder name="private feste">
+                <File name="de\private feste\index.markdown" />
             </Folder>
         </Folder>
         <Folder name="en">
