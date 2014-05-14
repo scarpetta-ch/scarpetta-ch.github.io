@@ -47,16 +47,17 @@
 			{% elsif page.lang == "fr" %}BLAH
 			{% endif %}		
 			</a></li>       
-	
+			
+			{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
+			
 			<li class="divider-vertical"></li>
 			<li class="dropdown">
 				<a href="#" class="dropdown-toggle js-activated" data-toggle="dropdown"> {{ page.lang }} <b class="caret"></b></a>
-				<ul class="dropdown-menu">
-				{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
+				<ul class="dropdown-menu">			
 				  <li><a tabindex="-1" href="/it/{{ pagename }}">Italiano</a></li>
 				  <li><a tabindex="-1" href="/de/{{ pagename }}">Deutsch</a></li>
-				  <li><a tabindex="-1" href="/en/{{ pagename }}">English</a></li>
 				  <li><a tabindex="-1" href="/fr/{{ pagename }}">Francais</a></li>
+				  <li><a tabindex="-1" href="/en/{{ pagename }}">English</a></li>
 				</ul>
 			</li>
 		</ul>
@@ -64,7 +65,11 @@
 		</div>
     </div>	
 	<div class = "container">
-		<p class="navbar-text navbar-right" style="font-size: 11px" align="right"><a href="#" class="navbar-link">En</a> <a href="#" class="navbar-link">De</a> <a href="#" class="navbar-link">It</a> <a href="#" class="navbar-link">Fr</a></p>
+		<p class="navbar-text navbar-right" style="font-size: 11px" align="right">
+		<a href="/it/{{ pagename }}" class="navbar-link">It</a> 
+		<a href="/de/{{ pagename }}" class="navbar-link">De</a> 
+		<a href="/fr/{{ pagename }}" class="navbar-link">Fr</a>
+		<a href="/en/{{ pagename }}" class="navbar-link">En</a> </p>
 	</div>			
 
 	
