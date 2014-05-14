@@ -143,6 +143,6 @@
 
 {% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e nel pomeriggio per aperitivi e stuzzichini.*
 {% elsif page.lang == "en" %} *We are also open for coffee in the morning and for drinks and snacks in the afternoon.*
-{% elsif page.lang == "de" %} *Wir sind auch für Kaffee am Morgen und für Getränke und Snacks am Nachmittag geöffnet.
+{% elsif page.lang == "de" %} *Wir sind auch für Kaffee am Morgen und für Getränke und Snacks am Nachmittag geöffnet.*
 {% elsif page.lang == "fr" %} *FRENCH*
 {% endif %}
