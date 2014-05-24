@@ -52,6 +52,9 @@
 		</div>
     </div>	
 	{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
+	{% if page.layout == "coverpage" %}
+		{% assign pagename = "index.html" %}
+	{% endif %}
 	<div class = "container">
 		<p class="navbar-text navbar-right" style="font-size: 11px" align="right">
 		<a href="/it/{{ pagename }}" class="navbar-link">It</a> 

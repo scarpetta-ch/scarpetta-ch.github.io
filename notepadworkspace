@@ -3,40 +3,6 @@
         <Folder name="css">
             <File name="css\all.css" />
         </Folder>
-        <Folder name="de">
-            <Folder name="die bar">
-                <File name="de\die bar\index.markdown" />
-            </Folder>
-            <Folder name="die kueche">
-                <File name="de\die kueche\index.markdown" />
-            </Folder>
-            <Folder name="kontakt">
-                <File name="de\kontakt\index.markdown" />
-            </Folder>
-            <Folder name="ueber uns">
-                <File name="de\ueber uns\index.markdown" />
-            </Folder>
-            <Folder name="private feste">
-                <File name="de\private feste\index.markdown" />
-            </Folder>
-        </Folder>
-        <Folder name="en">
-            <Folder name="about us">
-                <File name="en\about us\index.markdown" />
-            </Folder>
-            <Folder name="contact">
-                <File name="en\contact\index.markdown" />
-            </Folder>
-            <Folder name="private functions">
-                <File name="en\private functions\index.markdown" />
-            </Folder>
-            <Folder name="the bar">
-                <File name="en\the bar\index.markdown" />
-            </Folder>
-            <Folder name="the kitchen">
-                <File name="en\the kitchen\index.markdown" />
-            </Folder>
-        </Folder>
         <Folder name="fonts">
             <File name="fonts\glyphicons-halflings-regular.eot" />
             <File name="fonts\glyphicons-halflings-regular.svg" />
@@ -117,7 +83,7 @@
             <File name="_includes\navigation.html" />
             <File name="_includes\twitter-feed-home.html" />
             <File name="_includes\twitter-feed.html" />
-            <File name="_includes\openingtimes.markdown" />
+            <File name="_includes\contact.markdown" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
@@ -131,5 +97,39 @@
         <File name="README.md" />
         <File name="todo.txt" />
         <File name="_config.yml" />
+        <Folder name="en">
+            <Folder name="chi siamo">
+                <File name="en\chi siamo\index.markdown" />
+            </Folder>
+            <Folder name="contatti">
+                <File name="en\contatti\index.markdown" />
+            </Folder>
+            <Folder name="feste private">
+                <File name="en\feste private\index.markdown" />
+            </Folder>
+            <Folder name="la cantina">
+                <File name="en\la cantina\index.markdown" />
+            </Folder>
+            <Folder name="la cucina">
+                <File name="en\la cucina\index.markdown" />
+            </Folder>
+        </Folder>
+        <Folder name="de">
+            <Folder name="chi siamo">
+                <File name="de\chi siamo\index.markdown" />
+            </Folder>
+            <Folder name="contatti">
+                <File name="de\contatti\index.markdown" />
+            </Folder>
+            <Folder name="feste private">
+                <File name="de\feste private\index.markdown" />
+            </Folder>
+            <Folder name="la cantina">
+                <File name="de\la cantina\index.markdown" />
+            </Folder>
+            <Folder name="la cucina">
+                <File name="de\la cucina\index.markdown" />
+            </Folder>
+        </Folder>
     </Project>
 </NotepadPlus>
