@@ -131,5 +131,23 @@
                 <File name="de\la cucina\index.markdown" />
             </Folder>
         </Folder>
+        <Folder name="fr">
+            <Folder name="chi siamo">
+                <File name="fr\chi siamo\index.markdown" />
+            </Folder>
+            <Folder name="contatti">
+                <File name="fr\contatti\index.markdown" />
+            </Folder>
+            <Folder name="feste private">
+                <File name="fr\feste private\index.markdown" />
+            </Folder>
+            <Folder name="la cantina">
+                <File name="fr\la cantina\index.markdown" />
+            </Folder>
+            <Folder name="la cucina">
+                <File name="fr\la cucina\index.markdown" />
+            </Folder>
+            <File name="fr\index.markdown" />
+        </Folder>
     </Project>
 </NotepadPlus>
