@@ -9,11 +9,13 @@
 		
 		<div {% if page.imagePosition == 'side' %} class="col-xs-12 col-sm-6 col-md-6" {% else %} class="col-xs-12 col-sm-9 col-md-9"	{% endif %}>
 			{% if page.image != null %}
-				{% for item in page.image %}
-				<img src="{{ item }}" class="img-responsive" />
-				{% endfor %}
-			{% else %}
-			
+				{% for img in page.image %}
+					{% if page.imageLink[forloop.index0] %} 
+						<a href={{ page.imageLink[forloop.index0] }} target="_blank"><img src="{{ img }}" class="img-responsive"   /> </a>
+					{% else %}	
+						<img src="{{ img }}" class="img-responsive"   />
+					{% endif %}
+				{% endfor %}		
 			{% endif %}
 		</div>
 		
