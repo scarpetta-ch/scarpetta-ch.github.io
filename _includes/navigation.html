@@ -11,27 +11,58 @@
         </div>
         <div class="collapse navbar-collapse">
 		<ul class="nav navbar-nav">
-		{% if page.lang == "it" %}          
-            <li><a href="/it/chi%20siamo">Chi Siamo</a></li>
-            <li><a href="/it/la%20cucina">La Cucina</a></li>
-			<li><a href="/it/la%20cantina">La Cantina</a></li>
-			<li><a href="/it/feste%20private">Feste Private</a></li>
-			<li><a href="/it/contatti">Contatti</a></li>       
-		 {% elsif page.lang == "en" %}
-		    <li><a href="/en/about%20us">About Us</a></li>
-            <li><a href="/en/the%20kitchen">The Kitchen</a></li>
-			<li><a href="/en/the%20bar">The Bar</a></li>
-			<li><a href="/en/private%20functions">Private Functions</a></li>
-			<li><a href="/en/contact">Contact</a></li>     
-		{% elsif page.lang == "de" %}
-		    <li><a href="/de/ueber%20uns">Über uns</a></li>
-            <li><a href="/de/die%20kueche">Die Küche</a></li>
-			<li><a href="/de/die%20bar">Die Bar</a></li>
-			<li><a href="/de/private%20veranstaltungen">Private Veranstaltungen</a></li>
-			<li><a href="/de/kontakt">Kontakt</a></li>     
-		 {% endif %}
+		
+			<li><a href="/{{ page.lang }}/chi%20siamo">
+			{% if page.lang == "it" %}Chi Siamo
+			{% elsif page.lang == "en" %} About us  
+			{% elsif page.lang == "de" %} Über uns 
+			{% elsif page.lang == "fr" %} DIM
+			{% endif %}
+			</a></li>
+            <li><a href="/{{ page.lang }}/la%20cucina">
+			{% if page.lang == "it" %}La Cucina
+			{% elsif page.lang == "en" %}The Food
+			{% elsif page.lang == "de" %}Die Küche
+			{% elsif page.lang == "fr" %}BLAH
+			{% endif %}			
+			</a></li>
+			<li><a href="/{{ page.lang }}/la%20cantina">
+			{% if page.lang == "it" %}La Cantina
+			{% elsif page.lang == "en" %}The Drink
+			{% elsif page.lang == "de" %}Die Küche
+			{% elsif page.lang == "fr" %}BLAH
+			{% endif %}			
+			</a></li>			
+			<li><a href="/{{ page.lang }}/feste%20private">
+			{% if page.lang == "it" %}Feste Private
+			{% elsif page.lang == "en" %}Private Parties
+			{% elsif page.lang == "de" %}Private Feste
+			{% elsif page.lang == "fr" %}BLAH
+			{% endif %}		
+			</a></li>
+			<li><a href="/{{ page.lang }}/contatti">
+			{% if page.lang == "it" %}Contatti
+			{% elsif page.lang == "en" %}Contact
+			{% elsif page.lang == "de" %}Kontakt
+			{% elsif page.lang == "fr" %}BLAH
+			{% endif %}		
+			</a></li>       
 		</ul>
         </div><!--/.nav-collapse -->
 		</div>
-    </div>
+    </div>	
+	
+	{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
+	{% if page.layout == "coverpage" %}
+		{% assign pagename = "index.html" %}
+	{% endif %}
+	<div class = "container">
+	<p class="navbar-text navbar-right" style="font-size: 11px" align="right"/>
+		<!--<p class="navbar-text navbar-right" style="font-size: 11px" align="right">
+		<a href="/it/{{ pagename }}" class="navbar-link">It</a> 
+		<a href="/de/{{ pagename }}" class="navbar-link">De</a> 
+		<a href="/fr/{{ pagename }}" class="navbar-link">Fr</a>
+		<a href="/en/{{ pagename }}" class="navbar-link">En</a> </p>-->
+	</div>	
 
+	

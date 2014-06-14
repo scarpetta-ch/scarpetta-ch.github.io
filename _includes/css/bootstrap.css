@@ -3113,7 +3113,7 @@ input[type="button"].btn-block {
 .navbar-fixed-bottom .dropdown .dropdown-menu {
   top: auto;
   bottom: 100%;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
 }
 @media (min-width: 768px) {
   .navbar-right .dropdown-menu {
@@ -3639,7 +3639,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -3704,7 +3704,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-static-top {
   z-index: 1000;
-  border-width: 0 0 1px;
+  border-width: 0 0 0px;
 }
 @media (min-width: 768px) {
   .navbar-static-top {
@@ -5786,19 +5786,3 @@ h6{ margin:2px }
 h6 span{padding-right:37px;
 text-align: center;}
 h5 { margin:0 }
-
-.navbar .divider-vertical {
-height: 50px;
-margin: 0 9px;
-border-right: 1px solid #ffffff;
-border-left: 1px solid #f2f2f2;
-}
-.navbar-inverse .divider-vertical {
-border-right-color: #eeeeee;
-border-left-color: #eeeeee;
-}
-@media (max-width: 767px) {
-.navbar-collapse .nav > .divider-vertical {
-display: none;
-}
-}

@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Contatti
+title: Kontakt
 image: [/images/contatti-map.png, /images/contatti.png]
 imageLink: ["http://maps.apple.com/?q=Via+alla+Fraccia+5,+Tenero-Contra,+Switzerland", ]
 imagePosition: side
-lang: it
+lang: de
 ---
 
 {{page.title}}
 ==============
 
-
 {% include contact.markdown %}
+
+
 
