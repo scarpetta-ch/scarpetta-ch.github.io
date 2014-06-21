@@ -3755,15 +3755,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   float: right;
   margin-right: 15px;
   padding: 9px 10px;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   background-color: transparent;
   background-image: none;
-  border: 1px solid transparent;
-  border-radius: 4px;
+  border: 0px solid transparent;
+  border-radius: 0px;
 }
 .navbar-toggle:focus {
   outline: none;
+}
+.navbar-toggle:hover {
+  background-color: transparent;
 }
 .navbar-toggle .icon-bar {
   display: block;
@@ -3807,6 +3810,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
+	background-color: transparent;
   }
 }
 @media (min-width: 768px) {
