@@ -9,11 +9,9 @@ lang: de
 {{page.title}}
 ==============
 
-Wir servieren saisonale und regionale Gerichte von unseren Reisen durch Italien inspiriert.
-Unsere Spezialitäten sind Nudeln und Brot - alles von Hand gefertigt. Wir wählen unsere Lieferanten mit großer Sorgfalt und unsere Zutaten werden lokal (mit Ausnahme von einigen Produkten aus Italien) bezogen.  
+Wir servieren saisonale und regionale Gerichte, inspiriert von unseren Reisen durch Italien. 
+Unsere Spezialitäten sind handgemachte, frische Pasta und täglich selbstgebackenes Brot. Wir wählen unsere Lieferanten mit grosser Sorgfalt und nutzen nur lokale Produkte. 
 
-<br> </br>
-Unsere Speisekarte wechselt saisonal, aber unsere Werte bleiben die gleichen: Einfachheit und Geschmack.  
+Unsere Speisekarte wechselt mit den Jahreszeiten, aber unsere Werte bleiben die gleichen: Einfachheit und Geschmack. 
 
-<br> </br>
-Um eine Probe-Menü anzuzeigen, [hier klicken]. (/menus/MENU_nuova.pdf)
+Um ein Probe-Menü anzuschauen, klicken Sie bitte [hier.] (/menus/MENU_nuova.pdf)

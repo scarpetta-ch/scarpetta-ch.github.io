@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Bar 
+title: The Cellar
 image: 
 imagePosition: below
 lang: en
@@ -9,7 +9,10 @@ lang: en
 {{page.title}}
 ==============
 
-Our wine list includes Italian wines and are sourced from some of the best makers of Swiss and Italian wine. We try to vary our selection complement our food menu accordingly. 
+> ### “Wine makes a symphony of a good meal.” 
+
+Our wine list is made up of local Ticinese and Italian wines from carefully selected wine producers.
+Whilst starting off relatively small, we intend to gradually build our *Cantina* with time as we explore new regional wines.
 
 <br>
-A current list of wines we offer will be available shortly. 
+An interactive wine map will be published shortly.

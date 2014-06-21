@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Private Feste
+title: Private Anlässe
 image: /images/feste_private.png
 imagePosition: below
 lang: de
@@ -9,11 +9,7 @@ lang: de
 {{page.title}}
 ==============
 
-Hochzeiten, Geburtstage, Taufe, Firmenevent?
+Hochzeiten, Geburtstage, Taufen, Firmenevent? 
 --------------------------------------------------
-
-Wir freuen uns auf Ihre Privatparty zubringen, sei es ein entspanntes Getränk mit einem Snack oder ein besonderes Essen.  
-<br> </br>
-Für weitere Fragen rufen Sie uns an Tel. 091 745 35 35 oder senden Sie uns eine E-Mail mit Ihren Angaben und Anforderungen: <info@scarpetta.ch>
-<br> </br>
-Ein Probe-Menü für private Veranstaltungen werden in Kürze veröffentlicht.
+Wir freuen uns, Sie begrüßen zu dürfen und organisieren gerne für Sie eine private Feier, Veranstaltung oder auch ein gediegenes Aperitivo mit kleinen Delikatessen. 
+Für weitere Informationen sind wir gerne unter der Telefonnummer 091 745 35 35 für Sie erreichbar. Oder senden Sie uns eine E-Mail mit Ihren Daten und Wünschen an: <info@scarpetta.ch>

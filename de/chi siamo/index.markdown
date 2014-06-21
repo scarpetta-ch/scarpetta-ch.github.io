@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 	Über uns 
+title: 	Wer wir sind
 image: /images/chi_siamo.png
 imagePosition: side
 lang: de
@@ -10,16 +10,14 @@ lang: de
 {{page.title}}
 ==============
  
-> ### **fare la scarpetta;** nehmen Sie ein Stückchen Brot und wischen Sie die Sauce aus der Unterseite der Schale
-========================================================================================================
-
+> ### **fare la scarpetta** - mit einem Stück Brot den Rest der Sauce auf dem Teller aufputzen
+=============================================================================================
 ***
 
-La Scarpetta ist ein kleines Restaurant in den Hügeln von Tenero, die einfach und bietet authentische italienische Küche in der Region Tessin.
+La Scarpetta ist eine kleine Osteria in den Hügeln von Tenero-Contra, die einfache und authentische italienische Küche offeriert. 
 
-Aus der Arbeit in einigen der besten Restaurants in London (The River Café, Trullo und Bocca di Lupo) und unsere Reise nach Italien wurden wir inspiriert, unsere Werte, basierend auf Einfachheit und Geschmack zu entwickeln.
+Nach dem wir in einigen von London’s besten Küchen (The River Café, Trullo und Bocca di Lupo) gearbeitet und Erfahrungen durch Reisen in bella Italia gesammelt haben, wurden wir inspiriert unseren Traum zu verwirklichen: eine eigene Osteria in den wunderschönen Hügeln des Tessins. 
 
-Unser Essen ist frisch und saisonale und La Scarpetta ist für seine lockere und entspannte Atmosphäre zu schätzen.
+Unsere Werte basieren auf Einfachheit und Geschmack. Deswegen verwenden wir ausschliesslich lokale Zutaten; Bio-Eier von umliegenden Kleinbauern, Fleisch von einem traditionellen, örtlichen Metzger und Gemüse aus Selbstanbau und von einem lokalen Bauernhof. 
 
-<br>
-**Öffnungs Mai 2014.**
+Alle Gerichte sind saisonal und werden von uns handgemacht zubereitet. 

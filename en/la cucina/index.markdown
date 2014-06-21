@@ -8,10 +8,7 @@ lang: en
 
 {{page.title}}
 ==============
+At *Scarpetta* we use our passion for simplicity and flavour to serve seasonal and authentic Italian specialties. 
+Every day we make our own fresh pasta as well as our own fresh bread. We only use local produce, and everything is hand-made. 
 
-We serve seasonal and regional dishes inspired by our travels through Italy.
-Our specialities include pasta and bread - all made ​​by hand. We choose our suppliers with great care and our ingredients are sourced locally (with the exception of some products from Italy).  
-
-Our menu changes seasonally, but our values ​​remain the same: simplicity and flavour.  
-<br>
-To view a sample menu, [click here.] (/menus/MENU_nuova.pdf)
+A fresh *cucina* sees us cook with the seasons. To view a sample menu, please [click here.] (/menus/MENU_nuova.pdf)

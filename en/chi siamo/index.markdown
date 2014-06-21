@@ -10,17 +10,13 @@ lang: en
 {{page.title}}
 ==============
  
-> ### **fare la scarpetta;** take a peice of bread and mop up the sauce from the bottom of your dish
-========================================================================================================
+> ### **fare la scarpetta;** taking a small piece of bread to mop up the sauce on your plate
+=============================================================================================
 
 ***
+Inspired by our journeys through *bella Italia*, and after having worked in some of London's most renowned kitchens (including the River Café as well as Trullo and Bocca di Lupo), we sought to live our own dream: our own *Osteria*.
 
-La Scarpetta is a small restaurant in the hills of Tenero that offers simple and authentic Italian cuisine in the region of Ticino. 
+The *ambiente* of Scarpetta is to welcome you to the Italian *dolce vita*, informal and relaxing.
 
-From the work in some of the best restaurants in London (The River Café, Trullo and Bocca di Lupo) and our trip to Italy we were inspired to develop our values based on simplicity and flavour. 
 
-Our food is fresh and seasonal and La Scarpetta is appreciated for its casual and relaxed atmosphere. 
-
-<br>
-**Opening May 2014.**
 
