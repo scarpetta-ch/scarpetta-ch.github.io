@@ -3765,9 +3765,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-toggle:focus {
   outline: none;
 }
-.navbar-toggle:hover {
-  background-color: transparent;
-}
 .navbar-toggle .icon-bar {
   display: block;
   width: 22px;
@@ -4061,7 +4058,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #333333;
+  background-color: transparent;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #ffffff;
@@ -5790,6 +5787,7 @@ h6{ margin:2px }
 h6 span{padding-right:37px;
 text-align: center;}
 h5 { margin:0 }
-.inverse, .inverse a {
+.inverse-icon, .inverse-icon a {
   color: #fff;
+  padding-right: 5px;
 }
