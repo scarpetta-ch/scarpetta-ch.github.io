@@ -4,7 +4,12 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="{{page.lead}}" />
+    <meta name="description" content="{{site.title}} | 
+		{% if page.lang == "it" %} {{ site.descriptionIt }}
+		{% elsif page.lang == "de" %} {{ site.descriptionDe }}
+		{% elsif page.lang == "en" %} {{ site.descriptionEn }}
+		{% elsif page.lang == "fr" %} {{ site.descriptionFr }}
+		{% endif %}"/>
     <meta name="author" content="Scarpetta" />
 	<meta name="title" content="{{page.title}}" />
 	  

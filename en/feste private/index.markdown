@@ -10,7 +10,7 @@ lang: en
 {{page.title}}
 ==============
 
-Weddings, birthday, corporate event?
+Weddings, birthdays, corporate events?
 ----------------------------------------------------
 
 We are more than happy to cater for your special event or *aperitivo*. 

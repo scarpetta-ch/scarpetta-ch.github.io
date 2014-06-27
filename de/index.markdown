@@ -1,6 +1,6 @@
 ---
 layout: coverpage
-title: Osteria Scarpetta Alla Fraccia
+title: Osteria Scarpetta alla Fraccia
 lead: Saisonale und frische italienische Küche
 lang: de
 image: /images/scarpettaHome.jpg

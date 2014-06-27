@@ -1,4 +1,4 @@
-name: Osteria Scarpetta Alla Fraccia
+name: Osteria Scarpetta alla Fraccia
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -7,3 +7,7 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 markdown: redcarpet
 pygments: false
 encoding: UTF-8
+descriptionEn: Seasonal, fresh and hand-made Italian cuisine in the hills of Tenero-Contra using locally sourced produce. 
+descriptionIt: Cucina stagionale Italiana - tutte le cose buone fatte in casa.
+descriptionDe: Saisonale und frische italienische Küche
+descriptionFr:
