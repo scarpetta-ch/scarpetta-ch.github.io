@@ -15,7 +15,7 @@
 				<span class="glyphicon glyphicon-info-sign inverse-icon"></span></a>
           </div>		  	  
 		  
-          <a class="navbar-brand" href="{{site.baseurl}}"><strong>Scarpetta</strong></a>
+          <a class="navbar-brand" href="/"><strong>Scarpetta</strong></a>
         </div>
         <div class="collapse navbar-collapse">
 		<ul class="nav navbar-nav">
@@ -58,18 +58,6 @@
         </div><!--/.nav-collapse -->
 		</div>
     </div>	
-	
-	{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
-	{% if page.layout == "coverpage" %}
-		{% assign pagename = "index.html" %}
-	{% endif %}
-	<div class = "container">
-	<p class="navbar-text navbar-right" style="font-size: 11px" align="right"/>
-		<p class="navbar-text navbar-right" style="font-size: 11px" align="right">
-		<a href="/it/{{ pagename }}" class="navbar-link">It</a> 
-		<a href="/de/{{ pagename }}" class="navbar-link">De</a> 
-		<a href="/fr/{{ pagename }}" class="navbar-link">Fr</a>
-		<a href="/en/{{ pagename }}" class="navbar-link">En</a> </p>
-	</div>	
+
 
 	

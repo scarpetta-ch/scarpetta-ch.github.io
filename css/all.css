@@ -5,4 +5,5 @@
 {% include css/bootstrap.css %}
 {% include css/jumbotron.css %}
 {% include css/sticky-footer.css %}
+{% include css/cover.css %}
 
