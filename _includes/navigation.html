@@ -13,6 +13,8 @@
 				<span class="glyphicon glyphicon-calendar inverse-icon"></span></a>			
 			<a href="/{{ page.lang }}/contatti">
 				<span class="glyphicon glyphicon-info-sign inverse-icon"></span></a>
+			<a href="/{{ page.lang }}/notizie">
+				<span class="glyphicon glyphicon-bullhorn inverse-icon"></span></a>
           </div>		  	  
 		  
           <a class="navbar-brand" href="/"><strong>Scarpetta</strong></a>
@@ -53,7 +55,14 @@
 			{% elsif page.lang == "de" %}Kontakt
 			{% elsif page.lang == "fr" %}BLAH
 			{% endif %}		
-			</a></li>       
+			</a></li> 
+			<li><a href="/{{ page.lang }}/notizie">
+			{% if page.lang == "it" %}Notizie
+			{% elsif page.lang == "en" %}News
+			{% elsif page.lang == "de" %}Nouvelles
+			{% elsif page.lang == "fr" %}BLAH
+			{% endif %}		
+			</a></li>      			
 		</ul>
         </div><!--/.nav-collapse -->
 		</div>
