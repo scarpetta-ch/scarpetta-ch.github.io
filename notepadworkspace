@@ -45,6 +45,9 @@
             <Folder name="vini del ticino">
                 <File name="it\vini del ticino\index.markdown" />
             </Folder>
+            <Folder name="notizie">
+                <File name="it\notizie\index.markdown" />
+            </Folder>
         </Folder>
         <Folder name="js">
             <File name="js\all.js" />
