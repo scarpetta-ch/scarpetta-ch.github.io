@@ -11,17 +11,15 @@
       #wrap {
         min-height: 100%;
         height: auto !important;
-        height: 100%;
         /* Negative indent footer by it's height */
-        margin: 0 auto 15px;
-		padding-bottom: 30px;
+        margin: 0 auto 15px;		
       }
 
       /* Set the fixed height of the footer here */
       #push,
       #footer {
         height: auto;
-		bottom: 0;
+		bottom: -1px;
       }
       #footer {
 		font-size:12px;
