@@ -72,6 +72,7 @@
                 <File name="_includes\css\jumbotron.css" />
                 <File name="_includes\css\off-canvas.css" />
                 <File name="_includes\css\sticky-footer.css" />
+                <File name="_includes\css\cover.css" />
             </Folder>
             <Folder name="js">
                 <File name="_includes\js\bootstrap.js" />
