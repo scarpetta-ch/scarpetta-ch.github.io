@@ -64,7 +64,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MAR
 		{% endif %}
 		</td>
-		<td>16.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 23.00</td>
 		<td class="day">2</td>
 	</tr>
 	<tr>
@@ -75,7 +75,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MER
 		{% endif %}
 		</td>
-		<td>10.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 23.00</td>
 		<td class="day">3</td>
 	</tr>
 	<tr>
@@ -86,7 +86,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 23.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
@@ -97,7 +97,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} VEN
 		{% endif %}
 		</td>
-		<td>10.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 23.00</td>
 		<td class="day">5</td>
 	</tr>
 	<tr>
@@ -108,7 +108,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} SAM
 		{% endif %}
 		</td>
-		<td>10.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 23.00</td>
 		<td class="day">6</td>
 	</tr>
 	<tr>
@@ -118,7 +118,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} DIM
 		{% endif %}
 		</td>
-		<td>10.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
@@ -132,21 +132,21 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% endif %}
 
 <br>
-11.30-14.30, 18.00-22.00
+12.00 - 14.30 / 18.00 - 22.00
 <br>
 ({% if page.lang == "it" %}Domenica
 {% elsif page.lang == "en" %}Sunday
 {% elsif page.lang == "de" %}Sontag
 {% elsif page.lang == "fr" %}Dimanche 
-{% endif %}: 11.30-15.00, 18.00-21.30)  
+{% endif %}: 12.00 - 14.30 / 18.00 - 21.00)  
 </div> 
 <br>
 </strong>
 
 <!-- #### END OF Opening Times #### -->
 
-{% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e nel pomeriggio per aperitivi e stuzzichini.*
-{% elsif page.lang == "en" %} We are also open in the mornings for coffee and in the afternoon for *aperitivi* and small bites.
-{% elsif page.lang == "de" %} *Wir sind auch am Morgen für Kaffee und am Nachmittag für Aperitivo und kleine Köstlichkeiten für Sie geöffnet.*
+{% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè*
+{% elsif page.lang == "en" %} We are also open in the mornings for coffee.
+{% elsif page.lang == "de" %} *Wir sind auch am Morgen für Kaffee für Sie geöffnet.*
 {% elsif page.lang == "fr" %} *FRENCH*
 {% endif %}

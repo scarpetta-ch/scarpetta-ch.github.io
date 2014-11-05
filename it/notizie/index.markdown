@@ -3,41 +3,25 @@ layout: default
 title: Notizie
 image: 
 imageLink: 
-imagePosition: side
+imagePosition:
 lang: it
 ---
 
 {{page.title}}
 ==============
-  
 <br>
-<div class="container">
-<div class="col-md-8">
+
 ### Ti Saluti Ticino
 #### Sabine Neu 
 > "Ich MUSS da wieder hin!!!"  
 
 [Read the full review] (http://tisalutoticino.blogspot.ch/2014/07/osteria-scarpetta-alla-fraccia-tenero.html)
 - - - 
-- - -
-</div>
-<div class="col-md-8">  
-### Via 
-#### SBB Magazine
-> "cool caption"
 
-[Read the feature here] (http://www.sbb.ch/sbb-konzern/medien/publikationen/via/aktuelle-ausgabe.html)
-- - -
-- - -  
-</div>
-<div class="col-md-8">  
-### johncyril.com
-#### John Cyril
-> "Dining doesn't get much better than this!"
+### SBB Reise Magazin
 
-[Read the full experience here]
-- - - 
-- - - 
-</div>
-</div>
+[Read the mention here] (http://issuu.com/sbb_reisemagazin/docs/sbb_reisemagazin_140904/c/slouig8)
+<div data-configid="13951617/9691137" style="width: 400px; height: 294px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+- - -
+
 
