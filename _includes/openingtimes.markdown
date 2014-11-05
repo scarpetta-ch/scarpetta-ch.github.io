@@ -47,7 +47,7 @@
 	</tr>
 	<tr>
 		{% if page.lang == "it" %} <td>DOM   </td>{% elsif page.lang == "en" %} <td>SUN </td> {% elsif page.lang == "de" %} <td>SON </td> {% endif %}
-		<td>10.00 - 15.00 / 17.00 - 23.00</td>
+		<td>10.00 - 15.00 / 17.00 - 22.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
