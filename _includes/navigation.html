@@ -2,7 +2,7 @@
       <div class="container">
         <div class="navbar-header">
 
-{% comment %} THIS IS NAVIGATION WITH GLYPHICONS
+{% comment %} THIS IS NAVIGATION WITH GLYPHICONS {% endcomment %} 
 <!--- ########################################## --->
       	<div class="navbar-toggle">				  
 			<a href="/{{ page.lang }}/chi%20siamo" >
@@ -15,14 +15,14 @@
 				<span class="glyphicon glyphicon-calendar inverse-icon"></span></a>			
 			<a href="/{{ page.lang }}/contatti">
 				<span class="glyphicon glyphicon-info-sign inverse-icon"></span></a>
-			<!--<a href="/{{ page.lang }}/notizie">
-				<span class="glyphicon glyphicon-bullhorn inverse-icon"></span></a>-->
+			<a href="/{{ page.lang }}/notizie">
+				<span class="glyphicon glyphicon-bullhorn inverse-icon"></span></a>
 		  	  
 		            </div>	  
-{% endcomment %} 
+
 <!--- ########################################## --->
  
-{% comment %} THIS IS NAVIGATION WITH HAMBURGER {% endcomment %} 
+{% comment %} THIS IS NAVIGATION WITH HAMBURGER 
 <!--- ########################################## ---> 
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -32,7 +32,7 @@
           </button>
 
 <!--- ########################################## ---> 	
-
+{% endcomment %} 
           <a class="navbar-brand" href="/"><strong>Scarpetta</strong></a>
         </div>
         <div class="collapse navbar-collapse">
@@ -72,13 +72,13 @@
 			{% elsif page.lang == "fr" %}BLAH
 			{% endif %}		
 			</a></li> 
-			<!--<li><a href="/{{ page.lang }}/notizie">
+			<li><a href="/{{ page.lang }}/notizie">
 			{% if page.lang == "it" %}Notizie
 			{% elsif page.lang == "en" %}News
 			{% elsif page.lang == "de" %}Neu
 			{% elsif page.lang == "fr" %}Nouvelles
 			{% endif %}		
-			</a></li>-->
+			</a></li>
 		</ul>
         </div><!--/.nav-collapse -->
 		</div>
