@@ -88,6 +88,8 @@
             <File name="_includes\twitter-feed-home.html" />
             <File name="_includes\twitter-feed.html" />
             <File name="_includes\contact.markdown" />
+            <File name="_includes\languagebar.html" />
+            <File name="_includes\navigation-icons.html" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />

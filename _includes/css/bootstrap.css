@@ -286,7 +286,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #750e0e;
+  color: #660000;
   text-decoration: none;
 }
 a:hover,
@@ -504,7 +504,7 @@ cite {
   color: #750e0e;
 }
 a.text-primary:hover {
-  color: #470909;
+  color: #660000;
 }
 .text-success {
   color: #3c763d;
@@ -535,7 +535,7 @@ a.text-danger:hover {
   background-color: #5e0c0c;
 }
 a.bg-primary:hover {
-  background-color: #470909;
+  background-color: #660000;
 }
 .bg-success {
   background-color: #dff0d8;
@@ -4020,7 +4020,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-inverse {
   background-color: #750e0e;
-  border-color: #470909;
+  border-color: #660000;
 }
 .navbar-inverse .navbar-brand {
   color: #eeeeee;
@@ -4075,10 +4075,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 767px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-    border-color: #470909;
+    border-color: #660000;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-    background-color: #470909;
+    background-color: #660000;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
     color: #eeeeee;
@@ -4293,7 +4293,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
-  background-color: #470909;
+  background-color: #660000;
 }
 .label-success {
   background-color: #5cb85c;

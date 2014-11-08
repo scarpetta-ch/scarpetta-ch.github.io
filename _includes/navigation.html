@@ -1,8 +1,10 @@
-	<div class="navbar navbar-inverse navbar-static-top" role="navigation">
+<div class="navbar navbar-inverse navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-		
-          <div class="navbar-toggle">				  
+
+{% comment %} THIS IS NAVIGATION WITH GLYPHICONS
+<!--- ########################################## --->
+      	<div class="navbar-toggle">				  
 			<a href="/{{ page.lang }}/chi%20siamo" >
 				<span class="glyphicon glyphicon-user inverse-icon"> </span></a>			
 			<a href="/{{ page.lang }}/la%20cucina">
@@ -13,10 +15,24 @@
 				<span class="glyphicon glyphicon-calendar inverse-icon"></span></a>			
 			<a href="/{{ page.lang }}/contatti">
 				<span class="glyphicon glyphicon-info-sign inverse-icon"></span></a>
-			<a href="/{{ page.lang }}/notizie">
-				<span class="glyphicon glyphicon-bullhorn inverse-icon"></span></a>
-          </div>		  	  
-		  
+			<!--<a href="/{{ page.lang }}/notizie">
+				<span class="glyphicon glyphicon-bullhorn inverse-icon"></span></a>-->
+		  	  
+		            </div>	  
+{% endcomment %} 
+<!--- ########################################## --->
+ 
+{% comment %} THIS IS NAVIGATION WITH HAMBURGER {% endcomment %} 
+<!--- ########################################## ---> 
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+<!--- ########################################## ---> 	
+
           <a class="navbar-brand" href="/"><strong>Scarpetta</strong></a>
         </div>
         <div class="collapse navbar-collapse">
@@ -56,29 +72,14 @@
 			{% elsif page.lang == "fr" %}BLAH
 			{% endif %}		
 			</a></li> 
-			<li><a href="/{{ page.lang }}/notizie">
+			<!--<li><a href="/{{ page.lang }}/notizie">
 			{% if page.lang == "it" %}Notizie
 			{% elsif page.lang == "en" %}News
 			{% elsif page.lang == "de" %}Neu
 			{% elsif page.lang == "fr" %}Nouvelles
 			{% endif %}		
-			</a></li>      			
+			</a></li>-->
 		</ul>
         </div><!--/.nav-collapse -->
 		</div>
-    </div>	
-	
-	{% assign pagename = page.url | remove: '/index.html' | split: '/' | last %}
-	{% if page.layout == "coverpage" %}
-		{% assign pagename = "index.html" %}
-	{% endif %}
-	<div class = "container">
-	<p class="navbar-text navbar-right" style="font-size: 11px" align="right"/>
-		<!--<p class="navbar-text navbar-right" style="font-size: 11px" align="right">
-		<a href="/it/{{ pagename }}" class="navbar-link">It</a> 
-		<a href="/de/{{ pagename }}" class="navbar-link">De</a> 
-		<a href="/fr/{{ pagename }}" class="navbar-link">Fr</a>
-		<a href="/en/{{ pagename }}" class="navbar-link">En</a> </p>-->
-	</div>	
-
-	
+    </div>
