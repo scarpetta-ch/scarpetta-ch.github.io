@@ -14,4 +14,5 @@ La nostra specialità è la pasta e il pane fatti a mano. Abbiamo scelto i nostr
 <br> </br>
 Il nostro menù varia a seconda delle stagioni, ma i nostri valori rimangono sempre gli stessi: la semplicità e il sapore.
 <br> </br>
-Per visualizzare un esempio di menù, [clicca qui.] (/menus/MENU_nuova.pdf)
+Per visualizzare un esempio di menù, [clicca qui.] (/menus/MENU_nuova.pdf)  
+Per vedere la nostra offerta per pranzo, [clicca qui.] (/menus/Offerta Pranzo Nov 2014.pdf)

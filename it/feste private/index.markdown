@@ -16,4 +16,4 @@ Siamo felici di potervi ospitare e organizzare feste private, eventi speciali o 
 <br> </br>
 Per ulteriori informazioni: tel. 091 745 35 35 o inviare una mail con i vostri dati e desideri: <info@scarpetta.ch>
 <br> </br>
-Un menù di esempio sarà pubblicato a breve.
+[Menu Esempi per Natale 2014] (/menus/Feste di Natale Intro.pdf)
