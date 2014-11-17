@@ -4427,6 +4427,8 @@ a.thumbnail.active {
   margin-bottom: 20px;
   border: 1px solid transparent;
   border-radius: 4px;
+  float: right;
+  width: 40%;
 }
 .alert h4 {
   margin-top: 0;
@@ -4463,15 +4465,15 @@ a.thumbnail.active {
   color: #2b542c;
 }
 .alert-info {
-  background-color: #d9edf7;
-  border-color: #bce8f1;
-  color: #31708f;
+  background-color: #f3f3f3;
+  border-color: #dadada;
+  color: #750e0e;
 }
 .alert-info hr {
-  border-top-color: #a6e1ec;
+  border-top-color: #750e0e;
 }
 .alert-info .alert-link {
-  color: #245269;
+  color: #750e0e;
 }
 .alert-warning {
   background-color: #fcf8e3;
