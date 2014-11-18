@@ -4,7 +4,7 @@ title: Notizie
 image: 
 imageLink: 
 imagePosition:
-lang: it
+lang: en
 ---
 
 {{page.title}}
