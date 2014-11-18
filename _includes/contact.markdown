@@ -70,7 +70,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MAR
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 23.00</td>
+		<td>17.00 - 23.00</td>
 		<td class="day">2</td>
 	</tr>
 	<tr>
