@@ -5,7 +5,7 @@
 {% endif %}
 
 
-### Ti Saluti Ticino
+### Ti Saluto Ticino
 #### Sabine Neu 
 > "Ich MUSS da wieder hin!!!"  
 
