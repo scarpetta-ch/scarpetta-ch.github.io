@@ -12,9 +12,6 @@ lang: it
 
 La nostra carta dei vini comprende vini italiani e vini locali provenienti d’alcuni dei migliori produttori di vino svizzeri e italiani. Variamo la nostra selezione di vini a seconda del nostro menù.  
  
-<br>
-[Menu della Settimana del Vino Svizzero] (/menus/SwissWineWeekMenu.pdf)
-
 {% comment %} 
 
 <div style="clear: both; width: 500px; height: 50px; border: none;" id="selections">Please click a region on the map</div>
