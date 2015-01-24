@@ -1,2 +1,2 @@
-scarpetta-ch-staging.github.io
+scarpettah-staging.github.io
 ==============================
