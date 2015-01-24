@@ -19,10 +19,9 @@
 <div class="navbar navbar-fixed-bottom">
 <div class="alert alert-info alert-dismissible" role="alert">
 <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-	{% if page.lang == "it" %} Prenotare la vostra cena per *San Valentino* qui, Per visualizzare di menù, [clicca qui.](/menus/20150214_Menue_Valentino.pdf)
-	{% elsif page.lang == "en" %} Book your dinner for Valentine's Day here, to see the menu, [click here] (/menus/20150214_Menue_Valentino.pdf)
-	{% endif %}
-	
+	{% if page.lang == "it" %} Prenotare la vostra cena per <strong>San Valentino</strong> qui, Per visualizzare di menù, <a href="/menus/20150214_Menue_Valentino.pdf" class="alert-link">clicca qui.</a>
+	{% elsif page.lang == "en" %} Book your dinner for Valentine's Day here, to see the menu, <a href="/menus/20150214_Menue_Valentino.pdf" class="alert-link">click here.</a>
+	{% endif %}	
 </div>
 </div>
 
@@ -33,3 +32,4 @@
     <script src="/js/all.js"></script>	
 	</body>
 </html>
+

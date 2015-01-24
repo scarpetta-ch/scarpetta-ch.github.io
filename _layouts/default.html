@@ -16,6 +16,9 @@
 					{% else %}	
 						<img src="{{ img }}" class="img-responsive"   />
 					{% endif %}
+					{% if page.imageCaption[forloop.index0] %}
+						<div class="imagecaption">{{ page.imageCaption[forloop.index0] }} </div>
+					{% endif %}
 				{% endfor %}		
 			{% endif %}
 		</div>

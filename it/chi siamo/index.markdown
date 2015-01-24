@@ -3,6 +3,7 @@ layout: default
 title: Chi Siamo
 image: /images/chi_siamo.png
 imagePosition: side
+imageCaption: [Kimberley e Luciano, ]
 lang: it
 ---
 
