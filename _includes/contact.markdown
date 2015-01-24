@@ -47,12 +47,6 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "fr" %} **QUE**
 {% endif%}
 
-{% if page.lang == "it" %} Saremo chiusi dal 22 Dicembre 2014 al 12 Gennaio 2015 inclusivo
-{% elsif page.lang == "en" %} We will be closed from 22nd December 2014 until 12th January 2015 inclusive
-{% elsif page.lang == "de" %} Betriebsferien vom 22. Dezember 2014 bis 12. Januar 2015
-{% elsif page.lang == "fr" %} Nous serons fermés du 23 Décembre 2014 au 12 Janvier 2015 inclusivement
-{% endif %}
-
 <table id="opening_times" class="table">
 	<tr>
 		{% if page.lang == "it" %} <td>LUN </td> <td><strong>Chiuso</strong></td>

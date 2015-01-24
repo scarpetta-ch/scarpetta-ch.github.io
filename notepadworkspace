@@ -90,6 +90,7 @@
             <File name="_includes\contact.markdown" />
             <File name="_includes\languagebar.html" />
             <File name="_includes\navigation-icons.html" />
+            <File name="_includes\notizie.markdown" />
         </Folder>
         <Folder name="_layouts">
             <File name="_layouts\coverpage.html" />
