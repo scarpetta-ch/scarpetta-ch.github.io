@@ -4,23 +4,48 @@
 {% elsif page.lang == "fr" %} {% assign clickHereForTheArticle = "Clicca qui per il articolo" %}
 {% endif %}
 
-{% if page.lang == "it" %} {% assign clickHereToSeeComments = "Clicca qui per i commenti." %}
-{% elsif page.lang == "en" %} {% assign clickHereToSeeComments = "Click here to read our comments" %}
-{% elsif page.lang == "de" %} {% assign clickHereToSeeComments = "Clicca qui per il articolo" %}
-{% elsif page.lang == "fr" %} {% assign clickHereToSeeComments = "Clicca qui per il articolo" %}
+### tripadvisor
+{% if page.lang == "it" %} 
+<div id="TA_linkingWidgetRedesign691" class="TA_linkingWidgetRedesign">
+<ul id="w7oBE1VKE" class="TA_links lvn3LYg64hPt">
+<li id="Iw0pj2" class="z2FOhckD">
+<a target="_blank" href="http://www.tripadvisor.it/"><img src="http://www.tripadvisor.it/img/cdsi/partner/tripadvisor_logo_115x18-15079-2.gif" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=linkingWidgetRedesign&amp;uniq=691&amp;locationId=7146334&amp;lang=it&amp;border=false&amp;display_version=2"></script>
+
+{% elsif page.lang == "en" %}
+<div id="TA_linkingWidgetRedesign750" class="TA_linkingWidgetRedesign">
+<ul id="oGL129Q2w" class="TA_links JdeBfN1VeS">
+<li id="dsspPvke34" class="Xekxt0uL7Txn">
+<a target="_blank" href="http://www.tripadvisor.co.uk/"><img src="http://www.tripadvisor.co.uk/img/cdsi/partner/tripadvisor_logo_115x18-15079-2.gif" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=linkingWidgetRedesign&amp;uniq=750&amp;locationId=7146334&amp;lang=en_UK&amp;border=false&amp;display_version=2"></script>
+
+{% elsif page.lang == "de" %}
+<div id="TA_linkingWidgetRedesign81" class="TA_linkingWidgetRedesign">
+<ul id="pyNEg3D4eVn" class="TA_links ndz0jYO6B4G">
+<li id="AExijUGk" class="qP0lt6TSC">
+<a target="_blank" href="http://www.tripadvisor.de/"><img src="http://www.tripadvisor.de/img/cdsi/partner/tripadvisor_logo_115x18-15079-2.gif" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=linkingWidgetRedesign&amp;uniq=81&amp;locationId=7146334&amp;lang=de&amp;border=false&amp;display_version=2"></script>
+
+{% elsif page.lang == "fr" %}
+<div id="TA_linkingWidgetRedesign92" class="TA_linkingWidgetRedesign">
+<ul id="AqyFlLAO" class="TA_links pvAvsx0Q">
+<li id="R6LSEBo2PuPI" class="vG5mijtHrsHa">
+<a target="_blank" href="http://www.tripadvisor.fr/"><img src="http://www.tripadvisor.fr/img/cdsi/partner/tripadvisor_logo_115x18-15079-2.gif" alt="TripAdvisor"/></a>
+</li>
+</ul>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=linkingWidgetRedesign&amp;uniq=92&amp;locationId=7146334&amp;lang=fr&amp;border=false&amp;display_version=2"></script>
 {% endif %}
 
-
-{% if page.lang == "it" %} {% assign tripAdvisorDomain = "it" %}
-{% elsif page.lang == "en" %} {% assign tripAdvisorDomain = "co.uk" %}
-{% elsif page.lang == "de" %} {% assign tripAdvisorDomain = "de" %}
-{% elsif page.lang == "fr" %} {% assign tripAdvisorDomain = "fr" %}
-{% endif %}
-
-
-
-### TripAdvisor
-[{{ clickHereToSeeComments }}] (http://www.tripadvisor.{{ tripAdvisorDomain }}/Restaurant_Review-g664165-d7146334-Reviews-Osteria_Scarpetta_Alla_Fraccia-Tenero_Lake_Maggiore_Canton_of_Ticino_Swiss_Alps.html) 
 - - - 
 
 ### Ti Saluto Ticino
