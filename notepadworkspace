@@ -27,9 +27,6 @@
             <File name="images\twitter-bird.png" />
         </Folder>
         <Folder name="it">
-            <Folder name="chi siamo">
-                <File name="it\chi siamo\index.markdown" />
-            </Folder>
             <Folder name="contatti">
                 <File name="it\contatti\index.markdown" />
             </Folder>
@@ -47,6 +44,9 @@
             </Folder>
             <Folder name="notizie">
                 <File name="it\notizie\index.markdown" />
+            </Folder>
+            <Folder name="chi siamo">
+                <File name="it\chi siamo\index.markdown" />
             </Folder>
         </Folder>
         <Folder name="js">
