@@ -86,7 +86,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 23.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
