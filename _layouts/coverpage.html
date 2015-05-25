@@ -1,3 +1,5 @@
+
+<base href="/site./">
 {% include header.html %}
 <div id="wrap">
 {% include navigation.html %}
@@ -14,19 +16,14 @@
 		</p>
 	</div>	
 </div>
-
-,div>
 <div class="navbar navbar-fixed-bottom">
 <div class="alert alert-info alert-dismissible" role="alert">
 <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-	{% if page.lang == "it" %} Saremo <strong>aperti il Lunedì 25 maggio 2015</strong> e <strong>chiusi il Martedì 26 maggio 2015</strong>, poi come normale.
-	{% endif %}	
-<!--	<hr>
-<button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-Scarpetta è di 1 anno di età questa Domenica! Venite a festeggiare con noi! -->
-</div>
-</div>
 
+{{content}}
+
+</div>
+</div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

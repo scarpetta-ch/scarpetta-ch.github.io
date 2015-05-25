@@ -48,6 +48,8 @@
             <Folder name="chi siamo">
                 <File name="it\chi siamo\index.markdown" />
             </Folder>
+            <File name="it\notifications.markdown" />
+            <File name="it\index.markdown" />
         </Folder>
         <Folder name="js">
             <File name="js\all.js" />
