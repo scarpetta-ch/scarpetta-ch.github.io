@@ -1,0 +1,9 @@
+When you want to change a menu
+
+1. Save the menu in word ad a pdf, remembering to choose the location scarpetta-ch.github.io
+	If this is not immediately obvious, make sure that you click the down arrow on the right hand side.
+2. Once saved in this location, you will see that in Github there are pending changes to be synced and committed. 
+	Choose a comment that is appropriate (not hi john, i did it :)) , and click the sync and commit button.
+3. Your changes will shortly appear on the live site.
+
+Have fun
