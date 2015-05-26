@@ -16,3 +16,4 @@
 	
 You can put your notifications directly below this line {% endcomment %} 
 
+Saremo **aperti il Lunedì 25 maggio 2015** e **chiusi il Martedì 26 maggio 2015**, poi come normale.
