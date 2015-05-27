@@ -11,7 +11,7 @@ lang: it
 ==============
  
 > ### **fare la scarpetta;** raccogliere con un pezzetto di pane il sugo sul fondo del piatto 
-========================================================================================================
+
 
 ***
 
