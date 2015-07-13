@@ -22,7 +22,7 @@
 	</tr>
 	<tr>
 		{% if page.lang == "it" %} <td>MAR   </td>{% elsif page.lang == "en" %} <td>TUE </td> {% elsif page.lang == "de" %} <td>DIE </td> {% endif %}
-		<td>17.00 - 23.00</td>
+		<td> 17.00 - 23.00 </td>
 		<td class="day">2</td>
 	</tr>
 	<tr>
