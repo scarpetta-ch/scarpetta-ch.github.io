@@ -16,4 +16,4 @@
 	
 You can put your notifications directly below this line {% endcomment %}
 
-Partecipiamo di nuovo alla **Swiss Wine Week** dal *12 al 22 Novembre 2015*. Per ulteriori informazioni visitateci su www.settimanadelvinosvizzero.ch
+Partecipiamo di nuovo alla **Swiss Wine Week** dal **12 al 22 Novembre 2015**. Per ulteriori informazioni visitateci su www.settimanadelvinosvizzero.ch
