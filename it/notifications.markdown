@@ -16,3 +16,6 @@
 	
 You can put your notifications directly below this line {% endcomment %}
 
+**Chiusura annuale:** Saremo chiusi dalla sera di domenica **20 dicembre 2015** fino al martedì **12 gennaio 2016**. 
+
+Grazie mille e *buone feste!*
