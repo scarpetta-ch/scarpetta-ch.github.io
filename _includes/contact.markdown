@@ -31,12 +31,12 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 > <info@scarpetta.ch>
 
 
-{% if page.lang == "it" %} *Seguici su Twitter*
-{% elsif page.lang == "en" %} *Follow us on Twitter*
-{% elsif page.lang == "de" %} *Folgen Sie uns auf Twitter*
+{% if page.lang == "it" %} *Seguici su Twitter e Instagram*
+{% elsif page.lang == "en" %} *Follow us on Twitter and Instagram*
+{% elsif page.lang == "de" %} *Folgen Sie uns auf Twitter und Instagram*
 {% elsif page.lang == "fr" %} *Que*
 {% endif %}
-> <a href="https://twitter.com/ScarpettaCH" target="_blank"><img src="/images/twitter-bird-16x16.png">  @ScarpettaCH</a>
+> <a href="https://twitter.com/ScarpettaCH" target="_blank"><img src="/images/twitter-bird-16x16.png"></a> | <a href="https://www.instagram.com/scarpetta_ch/" target="_blank"><img src="/images/instagramLogo.png"></a>
 
 
 <!-- ### Opening Times table ### -->
