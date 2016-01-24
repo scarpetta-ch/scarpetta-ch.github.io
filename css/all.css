@@ -6,4 +6,4 @@
 {% include css/jumbotron.css %}
 {% include css/sticky-footer.css %}
 {% include css/cover.css %}
-
+{% include font-awesome-4.5.0/css/font-awesome.min.css %}
