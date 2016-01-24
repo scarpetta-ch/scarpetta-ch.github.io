@@ -14,5 +14,8 @@
 	*** 
 	We have no more chocolate cake because **John ate it all** (surrounding words with TWO * will make it bold)
 	
+	To link to a menu from the text, simply surround the text you want as the link with [ ] and follow this with (/menus/name-of-your-menu.pdf) Example
+	Click [here](/menus/MENU_nuova.pdf) to see our menu 
+	
+	
 You can put your notifications directly below this line {% endcomment %}
-
