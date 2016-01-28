@@ -4,7 +4,7 @@
 {% elsif page.lang == "fr" %} {% assign clickHereForTheArticle = "Clicca qui per il articolo" %}
 {% endif %}
 
-### notiziario
+### Newsletters
 <div>
 {% for file in site.static_files %}
     {% if file.path contains '/newsletters/' and file.path contains '.pdf' %}

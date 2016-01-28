@@ -37,7 +37,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "fr" %} *Que*
 {% endif %}
 > <a href="https://twitter.com/ScarpettaCH" target="_blank"><img src="/images/twitter-bird-16x16.png"></a> @ScarpettaCH    
-> <a href="https://www.instagram.com/scarpetta_ch/" target="_blank"> <i class="fa fa-instagram"></i></a>   scarpetta_ch
+> <a href="https://www.instagram.com/scarpetta_ch/" target="_blank"> <i class="fa fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;scarpetta_ch
 
 
 <!-- ### Opening Times table ### -->
