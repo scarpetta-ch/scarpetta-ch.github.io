@@ -9,7 +9,8 @@
 {% for file in site.static_files %}
     {% if file.path contains '/newsletters/' and file.path contains '.pdf' %}
 		{% assign pathSplit =  file.path | split: '/' %}
-		<li> <a href={{ file.path}}> {{ pathSplit.last | remove: '.pdf' }} </a>
+		{% assign pathHtml = file.path |  replace: ' ', '%20' | url_escape %}
+		<li> <a href={{ pathHtml}}> {{ pathSplit.last | remove: '.pdf' }} </a>
     {% endif %}
 {% endfor %}
 </div>
