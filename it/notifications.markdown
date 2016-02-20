@@ -19,5 +19,3 @@
 	
 	
 You can put your notifications directly below this line {% endcomment %}
-Voglia di un *pranzo/cena romantico*? Siamo ora in corso di prendere le prenotazioni per **San Valentino** 14 febbraio 2016. 
-Per visualizzare il nostro menù [**clicca qui**](/menus/20160214_Menue_SanValentino.pdf) . Abbiamo anche il nostro menu à la carte disponibili.
