@@ -139,7 +139,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "en" %}Sunday
 {% elsif page.lang == "de" %}Sontag
 {% elsif page.lang == "fr" %}Dimanche 
-{% endif %}: 12.00 - 14.30 / 18.00 - 21.00)  
+{% endif %}: 12.00 - 15.00 / 18.00 - 21.00)  
 </div> 
 <br>
 </strong>
