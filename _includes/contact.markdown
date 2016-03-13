@@ -58,12 +58,15 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		<td class="day">1</td>
 	</tr>
 	<tr>
-		{% if page.lang == "it" %} <td>MAR </td> <td><strong>Chiuso</strong></td>
-		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>Closed</strong></td>
-		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>Fermé</strong></td>
-		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>Geschlossen</strong></td>
+		<td>
+		{% if page.lang == "it" %} MAR
+		{% elsif page.lang == "en" %} TUE 
+		{% elsif page.lang == "fr" %} DI 
+		{% elsif page.lang == "de" %} MAR 
 		{% endif %}
-				<td class="day">2</td>
+		</td>
+		<td>17.00 - 23.00</td>
+		<td class="day">2</td>
 	</tr>
 	<tr>
 		<td>
@@ -73,7 +76,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MER
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">3</td>
 	</tr>
 	<tr>
@@ -84,7 +87,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
@@ -95,7 +98,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} VEN
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">5</td>
 	</tr>
 	<tr>
@@ -106,7 +109,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} SAM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">6</td>
 	</tr>
 	<tr>
@@ -116,7 +119,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} DIM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 21.00</td>
+		<td>10.00 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
