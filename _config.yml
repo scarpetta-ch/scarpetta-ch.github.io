@@ -4,7 +4,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-markdown: redcarpet
+markdown: kramdown
 pygments: false
 encoding: UTF-8
 descriptionEn: Seasonal, fresh and hand-made Italian cuisine in the hills of Tenero using locally sourced produce. 
