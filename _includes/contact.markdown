@@ -8,12 +8,11 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "fr" %} *Que*
 {% endif %}
 
-> <a href="http://maps.apple.com/?q=Via+alla+Fraccia+5,+Tenero-Contra,+Switzerland" target="_blank"><address>
+> <a href="http://maps.apple.com/?q=Via+alla+Fraccia+5,+Tenero-Contra,+Switzerland" target="_blank">
   Via alla Fraccia 5<br>
   6598 Tenero-Contra<br></a>
   Tel. 091 745 35 35 <br>
   {% if page.lang == "en" %} Switzerland {% endif %}
-</address>
 
 {% if page.lang == "it" %} *Ampio parcheggio a disposizione.*
 {% elsif page.lang == "en" %} *Ample parking available*
@@ -146,9 +145,10 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 
 <!-- #### END OF Opening Times #### -->
 
-{% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini*
+<i>
+{% if page.lang == "it" %} Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini.
 {% elsif page.lang == "en" %} We are also open in the mornings for coffee.
 {% elsif page.lang == "de" %} *Wir sind auch am Morgen für Kaffee für Sie geöffnet.*
 {% elsif page.lang == "fr" %} *FRENCH*
 {% endif %}
-
+</i>
