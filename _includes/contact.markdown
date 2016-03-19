@@ -13,7 +13,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
   6598 Tenero-Contra<br></a>
   Tel. 091 745 35 35 <br>
   {% if page.lang == "en" %} Switzerland {% endif %}
-
+  
 {% if page.lang == "it" %} *Ampio parcheggio a disposizione.*
 {% elsif page.lang == "en" %} *Ample parking available*
 {% elsif page.lang == "de" %} *Ausreichende Parkplätze stehen Ihnen zur Verfügung.*
@@ -123,32 +123,20 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 	</tr>
 </table>
 
-<div style="display:block">
-<strong>
+<b>
 {% if page.lang == "it" %}Orari della Cucina:
 {% elsif page.lang == "en" %}Kitchen opening times:
 {% elsif page.lang == "de" %}Küchenzeiten:
 {% elsif page.lang == "fr" %}Horaires d'ouverture du restaurant:
-{% endif %}
-
-<br>
+{% endif %}  
 12.00 - 14.30 / 18.00 - 22.00
-<br>
-({% if page.lang == "it" %}Domenica
-{% elsif page.lang == "en" %}Sunday
-{% elsif page.lang == "de" %}Sontag
-{% elsif page.lang == "fr" %}Dimanche 
-{% endif %}: 12.00 - 15.00 / 18.00 - 21.00)  
-</div> 
-<br>
-</strong>
 
+({% if page.lang == "it" %}Domenica{% elsif page.lang == "en" %}Sunday{% elsif page.lang == "de" %}Sontag{% elsif page.lang == "fr" %}Dimanche{% endif %}: 12.00 - 15.00 / 18.00 - 21.00)
 <!-- #### END OF Opening Times #### -->
 
-<i>
-{% if page.lang == "it" %} Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini.
+{% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini*.
 {% elsif page.lang == "en" %} We are also open in the mornings for coffee.
 {% elsif page.lang == "de" %} *Wir sind auch am Morgen für Kaffee für Sie geöffnet.*
 {% elsif page.lang == "fr" %} *FRENCH*
 {% endif %}
-</i>
+

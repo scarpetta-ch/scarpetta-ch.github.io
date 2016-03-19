@@ -1,3 +1,4 @@
+
 {% if page.lang == "it" %} {% assign clickHereForTheArticle = "Clicca qui per il articolo" %}
 {% elsif page.lang == "en" %} {% assign clickHereForTheArticle = "Click here for the full article" %}
 {% elsif page.lang == "de" %} {% assign clickHereForTheArticle = "Clicca qui per il articolo" %}
@@ -5,15 +6,17 @@
 {% endif %}
 
 ### Newsletters
+
 <div>
 {% for file in site.static_files %}
-    {% if file.path contains '/newsletters/' and file.path contains '.pdf' %}
-		{% assign pathSplit =  file.path | split: '/' %}
-		{% assign pathHtml = file.path |  replace: ' ', '%20' | url_escape %}
-		<li> <a href={{ pathHtml}}> {{ pathSplit.last | remove: '.pdf' }} </a>
-    {% endif %}
+{% if file.path contains '/newsletters/' and file.path contains '.pdf' %}
+{% assign pathSplit =  file.path | split: '/' %}
+{% assign pathHtml = file.path |  replace: ' ', '%20' | url_escape %}
+- [{{ pathSplit.last | remove: '.pdf' }}]({{ pathHtml}})
+	{% endif %}
 {% endfor %}
 </div>
+
 - - - 
 
 ### tripadvisor
@@ -61,15 +64,19 @@
 - - - 
 
 ### Ti Saluto Ticino
+
 #### Sabine Neu 
+
 > "Ich MUSS da wieder hin!!!"  
 
-[{{ clickHereForTheArticle }}] (http://tisalutoticino.blogspot.ch/2014/07/osteria-scarpetta-alla-fraccia-tenero.html)
+[{{ clickHereForTheArticle }}](http://tisalutoticino.blogspot.ch/2014/07/osteria-scarpetta-alla-fraccia-tenero.html)
+
 - - - 
 
 ### SBB Reise Magazin
 
-[{{ clickHereForTheArticle }}] (http://issuu.com/sbb_reisemagazin/docs/sbb_reisemagazin_140904/c/slouig8)
+[{{ clickHereForTheArticle }}](http://issuu.com/sbb_reisemagazin/docs/sbb_reisemagazin_140904/c/slouig8)
 <div data-configid="13951617/9691137" style="width: 400px; height: 294px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+
 - - -
 
