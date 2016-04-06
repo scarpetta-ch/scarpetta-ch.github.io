@@ -19,7 +19,3 @@ Obviously your menu has to exist in the menus folder in github 
 	
 You can put your notifications directly below this line {% endcomment %}
 
-Prenota il vostro pranzo/cena per **Pasqua!** *Clicca **[qui](/menus/20160327_Menue_Pasqua.pdf)** per il menu*.  
-
-***
-Saremo **aperti al lunedì 28 marzo 2016** per **Pasquetta** con i orari domenicale e **chiusi il martedì 29 marzo 2016**, poi come normale.
