@@ -18,4 +18,3 @@ Obviously your menu has to exist in the menus folder in github 
 
 	
 You can put your notifications directly below this line {% endcomment %}
-Prenota ora il vostro pranzo o cena per **la Festa della Mamma** il **08 maggio 2016**. Per vedere il menu Clicca [qui](/menus/20160508_FestaMamma.pdf)
