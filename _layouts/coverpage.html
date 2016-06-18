@@ -17,17 +17,15 @@
 	</div>	
 </div>
 
-{% if content != empty %}
+{% assign content = post.content | strip_newlines %}
 
+{% if content != ""  %}
 <div class="navbar navbar-fixed-bottom">
 <div class="alert alert-info alert-dismissible" role="alert">
 <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-
 {{content}}
-
 </div>
 </div>
-
 {% endif %}
 
     <!-- Bootstrap core JavaScript

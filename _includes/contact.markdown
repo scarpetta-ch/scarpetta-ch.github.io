@@ -131,7 +131,11 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% endif %}  
 12.00 - 14.30 / 18.00 - 22.00
 
-({% if page.lang == "it" %}Domenica{% elsif page.lang == "en" %}Sunday{% elsif page.lang == "de" %}Sontag{% elsif page.lang == "fr" %}Dimanche{% endif %}: 12.00 - 15.00 / 18.00 - 21.00)
+({% if page.lang == "it" %}Domenica:
+{% elsif page.lang == "en" %}Sunday:
+{% elsif page.lang == "de" %}Sontag:
+{% elsif page.lang == "fr" %}Dimanche:
+{% endif %}12.00 - 15.00 / 18.00 - 21.00)
 <!-- #### END OF Opening Times #### -->
 
 {% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini*.

@@ -1,3 +1,4 @@
+
 {% comment %}  
 1.	You can put in as many notifications as you like.
 
@@ -14,7 +15,7 @@ Example:
 	
 4.	To link to a menu from the text, simply surround the text you want as the link with [ ] and follow this with (/menus/name-of-your-menu.pdf) Example:
 	Click [here](/menus/MENU_nuova.pdf) to see our menu
-Obviously your menu has to exist in the menus folder in github 
+Obviously your menu has to exist in the menus folder in github 
 
 	
 You can put your notifications directly below this line {% endcomment %}
