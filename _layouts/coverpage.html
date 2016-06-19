@@ -16,7 +16,13 @@
 		</p>
 		<br>
 		<br>
-		<a class="btn btn-lg btn-primary" href="https://connect.shore.com/widget/osteria-scarpetta-alla-fraccia?locale=en" role="button">Book Now</a>
+		<a class="btn btn-lg btn-primary" href="https://connect.shore.com/widget/osteria-scarpetta-alla-fraccia?locale=en" role="button">
+		{% if page.lang == "it" %} Prenota ora
+			{% elsif page.lang == "en" %} Book Now
+			{% elsif page.lang == "de" %} Book Now in German
+			{% elsif page.lang == "fr" %} Book now in Frence
+			{% endif %}
+		</a>
 	</div>	
 </div>
 
