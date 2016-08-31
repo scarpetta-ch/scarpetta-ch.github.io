@@ -19,5 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-
 Saremo chiusi **sabato 03.09.2016** tutto il giorno per una festa privata.
