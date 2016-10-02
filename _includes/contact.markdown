@@ -61,6 +61,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>Closed</strong></td>
 		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>Fermé</strong></td>
 		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>Geschlossen</strong></td>		
+		{% endif %}
 	</tr>
 	<tr>
 		<td>
