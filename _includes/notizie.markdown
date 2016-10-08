@@ -65,6 +65,11 @@
 
 - - - 
 
+### TESSIN GEHT AUS 2016/2017!
+[{{ clickHereForTheArticle }}](/includes/TGA_OsteriaScarpettaAllaFraccia_2016-2017.pdf)
+
+- - - 
+
 ### Ti Saluto Ticino
 
 #### Sabine Neu 
