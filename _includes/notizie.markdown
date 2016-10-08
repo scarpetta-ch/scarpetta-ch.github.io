@@ -66,7 +66,7 @@
 - - - 
 
 ### TESSIN GEHT AUS 2016/2017!
-[{{ clickHereForTheArticle }}](/includes/TGA_OsteriaScarpettaAllaFraccia_2016-2017.pdf)
+[{{ clickHereForTheArticle }}](/reviews/TGA_OsteriaScarpettaAllaFraccia_2016-2017.pdf)
 
 - - - 
 
