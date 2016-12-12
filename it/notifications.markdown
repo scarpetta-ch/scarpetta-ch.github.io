@@ -21,7 +21,7 @@ Obviously your menu has to exist in the menus folder in github
 You can put your notifications directly below this line {% endcomment %}
 
 Saremo chiusi da lunedì **19 dicembre 2016** a martedì **17 gennaio 2017** incluso. 
-***
+
 Saremo chiusi anche la **sera di domenica 18 dicembre 2016** per lavoro di manutenzione. 
-***
+
 Grazie e buone feste! 
