@@ -57,10 +57,10 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		<td class="day">1</td>
 	</tr>
 	<tr>
-		{% if page.lang == "it" %} <td>MAR </td> <td><strong>Chiuso</strong></td>
-		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>Closed</strong></td>
-		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>Fermé</strong></td>
-		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>Geschlossen</strong></td>		
+		{% if page.lang == "it" %} <td>MAR </td> <td><strong>17.00 - 23.00</strong></td>
+		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>17.00 - 23.00</strong></td>
+		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>17.00 - 23.00</strong></td>
+		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>17.00 - 23.00</strong></td>		
 		{% endif %}
 	</tr>
 	<tr>
@@ -71,7 +71,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MER
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">3</td>
 	</tr>
 	<tr>
@@ -82,7 +82,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
@@ -93,7 +93,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} VEN
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">5</td>
 	</tr>
 	<tr>
@@ -104,7 +104,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} SAM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">6</td>
 	</tr>
 	<tr>
@@ -114,7 +114,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} DIM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 21.00</td>
+		<td>10.00 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
@@ -127,11 +127,18 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% endif %}  
 12.00 - 14.30 / 18.00 - 22.00
 
+({% if page.lang == "it" %}Martedì:
+{% elsif page.lang == "en" %}Tuesday:
+{% elsif page.lang == "de" %}Dienstag:
+{% elsif page.lang == "fr" %}Dimanche:
+{% endif %}12.00 - 15.00 / 18.00 - 21.00)
+
 ({% if page.lang == "it" %}Domenica:
 {% elsif page.lang == "en" %}Sunday:
 {% elsif page.lang == "de" %}Sontag:
 {% elsif page.lang == "fr" %}Dimanche:
 {% endif %}12.00 - 15.00 / 18.00 - 21.00)
+
 <!-- #### END OF Opening Times #### -->
 
 {% if page.lang == "it" %} *Siamo aperti anche al mattino per il caffè e l'aperitivo e nel pomeriggio per caffè, aperitivi e stuzzichini*.
