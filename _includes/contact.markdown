@@ -57,11 +57,15 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		<td class="day">1</td>
 	</tr>
 	<tr>
-		{% if page.lang == "it" %} <td>MAR </td> <td><strong>17.00 - 23.00</strong></td>
-		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>17.00 - 23.00</strong></td>
-		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>17.00 - 23.00</strong></td>
-		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>17.00 - 23.00</strong></td>		
+		<td>
+		{% if page.lang == "it" %} MAR
+		{% elsif page.lang == "en" %} TUE
+		{% elsif page.lang == "fr" %} DI
+		{% elsif page.lang == "de" %} MAR 		
 		{% endif %}
+		</td>
+		<td>17.00 - 23.00</td>
+		<td class="day">2</td>
 	</tr>
 	<tr>
 		<td>
@@ -136,7 +140,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "en" %}Wednesday - Saturday:
 {% elsif page.lang == "de" %}Mittwoch - Samstag:
 {% elsif page.lang == "fr" %}Dimanche:
-12.00 - 14.30 / 18.00 - 22.00
+{endif}12.00 - 14.30 / 18.00 - 22.00
 {% if page.lang == "it" %}Domenica:
 {% elsif page.lang == "en" %}Sunday:
 {% elsif page.lang == "de" %}Sontag:
