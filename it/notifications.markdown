@@ -19,4 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-Prenota ora il vostro **pranzo di Pasqua** - [Clicca qui](/menus/20170416_Menue_Pasqua.pdf) per il menu.
+Prenota ora il vostro **pranzo di Pasqua** [Clicca qui](/menus/20170416_Menue_Pasqua.pdf) per il menu.
