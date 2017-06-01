@@ -19,4 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-
+Saremo aperti lunedì 1 maggio 2017 e chiusi martedì 2 maggio 2017, poi come normale.

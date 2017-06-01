@@ -131,21 +131,21 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% endif %}  
 
 
-{% if page.lang == "it" %}Martedì:
+{% if page.lang == "it" %}Mar:
 {% elsif page.lang == "en" %}Tuesday:
 {% elsif page.lang == "de" %}Dienstag:
 {% elsif page.lang == "fr" %}Dimanche:
 {% endif %}18.00 - 22.00
 
-{% if page.lang == "it" %}Mercoledì - Sabato:
-{% elsif page.lang == "en" %}Wednesday - Saturday:
-{% elsif page.lang == "de" %}Mittwoch - Samstag:
+{% if page.lang == "it" %}Mer - Sab:
+{% elsif page.lang == "en" %}Wed - Sat:
+{% elsif page.lang == "de" %}Mit - Sam:
 {% elsif page.lang == "fr" %}Dimanche:
 {% endif %}12.00 - 14.30 / 18.00 - 22.00
 
-{% if page.lang == "it" %}Domenica:
-{% elsif page.lang == "en" %}Sunday:
-{% elsif page.lang == "de" %}Sontag:
+{% if page.lang == "it" %}Dom:
+{% elsif page.lang == "en" %}Sun:
+{% elsif page.lang == "de" %}Son:
 {% elsif page.lang == "fr" %}Dimanche:
 {% endif %}12.00 - 15.00 / 18.00 - 21.00
 
