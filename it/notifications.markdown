@@ -19,4 +19,3 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-**Saremo chiusi** tutto il giorno **sabato 17 giugno 2017** per una festa privata. Anticipatamente ci scusiamo per eventuali inconvenienti e saremo di nuovo lieti di accogliervi domenica 18 giugno con il normale orario.
