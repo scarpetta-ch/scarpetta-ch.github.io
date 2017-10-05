@@ -19,3 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
+Domenica **8 ottobre 2017** il ristorante rimarrà **chiuso tutto il giorno.** Anticipatamente ci scusiamo per eventuali inconvenienti e saremo di nuovo lieti di accogliervi da mercoledì 11 ottobre. 
