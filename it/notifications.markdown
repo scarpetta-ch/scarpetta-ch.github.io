@@ -19,4 +19,5 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-Saremo **chiusi la sera di venerdì 15 dicembre 2017** per una festa privata.
+**Chiusura annuale** da *lunedì* **18 dicembre 2017**
+a *mercoledì* **17 gennaio 2018**. Vi auguriamo anche a voi **felici feste natalizie!**
