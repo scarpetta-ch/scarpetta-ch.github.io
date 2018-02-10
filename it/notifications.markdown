@@ -19,3 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
+Prenota ora il vostro pranzo o cena di **San Valentino**. Per visualizzare il menu speciale [clicca qui.](/menus/20180214_Menue_Valentino.pdf)
