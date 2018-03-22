@@ -19,3 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
+Prenotate adesso il vostro **pranzo di Pasqua 1 aprile 2018**. Clicca [qui](/menus/20180401_Menue_Pasqua.pdf) per il nostro *menu speciale*. Il menu a la carte sia anche disponibile. Saremo anche aperti il **lunedì di Pasqua**.
