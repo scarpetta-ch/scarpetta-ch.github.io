@@ -1,4 +1,5 @@
 
+
 {% if page.lang == "it" %} *Dove siamo?*
 {% elsif page.lang == "en" %} *Location*
 
@@ -30,12 +31,11 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 > <info@scarpetta.ch>
 
 
-{% if page.lang == "it" %} *Seguici su Twitter e Instagram*
-{% elsif page.lang == "en" %} *Follow us on Twitter and Instagram*
-{% elsif page.lang == "de" %} *Folgen Sie uns auf Twitter und Instagram*
+{% if page.lang == "it" %} *Seguici su Instagram*
+{% elsif page.lang == "en" %} *Follow us on Instagram*
+{% elsif page.lang == "de" %} *Folgen Sie uns auf Instagram*
 {% elsif page.lang == "fr" %} *Que*
 {% endif %}
-> <a href="https://twitter.com/ScarpettaCH" target="_blank"><img src="/images/twitter-bird-16x16.png"></a> @ScarpettaCH    
 > <a href="https://www.instagram.com/scarpetta_ch/" target="_blank"> <i class="fa fa-instagram"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;scarpetta_ch
 
 
@@ -57,11 +57,14 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		<td class="day">1</td>
 	</tr>
 	<tr>
-		{% if page.lang == "it" %} <td>MAR </td> <td><strong>Chiuso</strong></td>
-		{% elsif page.lang == "en" %} <td>TUE </td> <td><strong>Closed</strong></td>
-		{% elsif page.lang == "fr" %} <td>DI </td> <td><strong>Fermé</strong></td>
-		{% elsif page.lang == "de" %} <td>MAR </td> <td><strong>Geschlossen</strong></td>
+		<td>
+		{% if page.lang == "it" %} MAR
+		{% elsif page.lang == "en" %} TUE
+		{% elsif page.lang == "fr" %} DI
+		{% elsif page.lang == "de" %} MAR 		
 		{% endif %}
+		</td>
+		<td>17.00 - 23.00</td>
 		<td class="day">2</td>
 	</tr>
 	<tr>
@@ -72,7 +75,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MER
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">3</td>
 	</tr>
 	<tr>
@@ -83,7 +86,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
@@ -94,7 +97,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} VEN
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">5</td>
 	</tr>
 	<tr>
@@ -105,7 +108,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} SAM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>10.00 - 23.00</td>
 		<td class="day">6</td>
 	</tr>
 	<tr>
@@ -115,7 +118,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} DIM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 21.00</td>
+		<td>10.00 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
