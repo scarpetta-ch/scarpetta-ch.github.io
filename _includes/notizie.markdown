@@ -8,7 +8,7 @@
 ### Newsletters
 
 <div>
-{% assign newsletters = site.static_files | sort:"file.modified_time" %}
+{% assign newsletters = site.static_files %}
 {% for file in newsletters %}
 {% if file.path contains '/newsletters/' and file.path contains '.pdf' %}
 {% assign pathSplit =  file.path | split: '/' %}
