@@ -8,11 +8,12 @@
 ### Newsletters
 
 <div>
-{% for file in site.static_files %}
+{% assign newsletters = site.static_files | sort:"file.modified_time" %}
+{% for file in newsletters %}
 {% if file.path contains '/newsletters/' and file.path contains '.pdf' %}
 {% assign pathSplit =  file.path | split: '/' %}
 {% assign pathHtml = file.path |  replace: ' ', '%20' | url_escape %}
-- [{{ pathSplit.last | remove: '.pdf' }}]({{ pathHtml}})
+- [{{ pathSplit.last | slice: 6,100 | remove: '.pdf' }}]({{ pathHtml}})
 	{% endif %}
 {% endfor %}
 </div>
