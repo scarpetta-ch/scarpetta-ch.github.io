@@ -71,7 +71,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} MER
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>11.00 - 15.00 / 17.30 - 22.00</td>
 		<td class="day">3</td>
 	</tr>
 	<tr>
@@ -82,7 +82,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} JEU
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>11.00 - 15.00 / 17.30 - 22.00</td>
 		<td class="day">4</td>
 	</tr>
 	<tr>
@@ -93,7 +93,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} VEN
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>11.00 - 15.00 / 17.30 - 22.00</td>
 		<td class="day">5</td>
 	</tr>
 	<tr>
@@ -104,7 +104,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} SAM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 22.00</td>
+		<td>11.00 - 15.00 / 17.30 - 22.00</td>
 		<td class="day">6</td>
 	</tr>
 	<tr>
@@ -114,7 +114,7 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 		{% elsif page.lang == "fr" %} DIM
 		{% endif %}
 		</td>
-		<td>10.00 - 15.00 / 17.00 - 21.00</td>
+		<td>11.00 - 15.00 / 17.30 - 21.00</td>
 		<td class="day">0</td>
 	</tr>
 </table>
