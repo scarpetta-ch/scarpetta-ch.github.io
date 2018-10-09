@@ -19,5 +19,3 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-
-**Sabato 6 ottobre 2018** il ristorante rimarrà **chiuso sul mezzogiorno** per un evento esterno. Riapriremo alle ore 19.00
