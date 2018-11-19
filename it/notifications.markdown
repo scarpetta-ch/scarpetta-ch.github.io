@@ -19,4 +19,3 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-L'Osteria rimarrà **chiusa domenica 28 ottobre 2018** tutto il giorno. Ci scusiamo già fin d'ora!
