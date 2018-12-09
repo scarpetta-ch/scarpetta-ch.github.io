@@ -126,13 +126,6 @@ Make it part of your trip to the Valle Verzasca valley and dam, infamous for Jam
 {% elsif page.lang == "fr" %}Horaires d'ouverture du restaurant:
 {% endif %}  
 
-
-{% if page.lang == "it" %}Mar:
-{% elsif page.lang == "en" %}Tuesday:
-{% elsif page.lang == "de" %}Dienstag:
-{% elsif page.lang == "fr" %}Dimanche:
-{% endif %}18.00 - 22.00
-
 {% if page.lang == "it" %}Mer - Sab:
 {% elsif page.lang == "en" %}Wed - Sat:
 {% elsif page.lang == "de" %}Mit - Sam:
