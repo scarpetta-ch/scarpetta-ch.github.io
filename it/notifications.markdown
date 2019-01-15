@@ -19,4 +19,3 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-**Chiusura annuale:** dalla sera del **16 dicembre 2018** a martedì **15 gennaio 2019** incluso. Vi auguriamo *buone feste e felice anno nuovo!*
