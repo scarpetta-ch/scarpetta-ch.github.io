@@ -19,5 +19,3 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
-Il ristorante rimarrà **chiuso domenica sera 20 gennaio 2019** per manutenzione. 
-Vi ringraziamo per la comprensione!
