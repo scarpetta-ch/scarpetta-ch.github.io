@@ -19,3 +19,4 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
+Purtroppo ora siamo **ufficialmente chiusi**. Vorremmo ringraziare tutti i nostri fedeli clienti per il loro supporto e ricordi felici. Grazie mille di cuore!
