@@ -9,12 +9,22 @@
 <div class="container">
 	<div class="jumbotron">    
 		<h3><strong>OSTERIA</strong></h3>
-		<h1><strong>Scarpetta</strong><h1>
-		<h3><strong>ALLA FRACCIA</strong><h3>
+		<h1><strong>Scarpetta</strong></h1>
+		<h3><strong>ALLA FRACCIA</strong></h3>
 		<p style="font-size:18px; text-align:center; color:white">
 			{{page.lead}}
 		</p>
 		<br>
+		<br>
+	
+	{% if content | strip_newlines != "" or content | strip_newlines != blank or content | strip_newlines != nil  %}
+	
+			<div class="alert alert-info text-center" role="alert" style="max-width: 100%; text-align:center">
+			<p class="text-center">{{content}}</p>
+			</div>
+			{% endif %}
+		
+	</div>
 <!--
 		<br>
 		<a class="btn btn-lg btn-primary" href="https://connect.shore.com/widget/osteria-scarpetta-alla-fraccia?locale=en" role="button">
@@ -24,19 +34,13 @@
 			{% elsif page.lang == "fr" %} Book now in Frence
 			{% endif %}
 		</a>
-		-->
-	</div>	
+		-->	
 </div>
 
+	
 
-{% if content | strip_newlines != "" or content | strip_newlines != blank or content | strip_newlines != nil  %}
-<div class="navbar navbar-fixed-bottom">
-<div class="alert alert-info alert-dismissible" role="alert">
-<button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-{{content}}
-</div>
-</div>
-{% endif %}
+
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
