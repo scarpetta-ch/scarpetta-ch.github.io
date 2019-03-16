@@ -19,4 +19,10 @@ Obviously your menu has to exist in the menus folder in github
 
 	
 You can put your notifications directly below this line {% endcomment %}
+### VENDITÀ DELL’ INVENTARIO <br>  22 e 23 marzo 2019  <br>  10.00 – 17.00
+
+##### Via alla Fraccia 5, 6598 Tenero-Contra <br> 091 745 35 35   |   info@scarpetta.ch
+
+***
+
 ### Purtroppo ora siamo **ufficialmente chiusi**. Vorremmo ringraziare tutti i nostri fedeli clienti per il loro supporto e ricordi felici. Grazie mille di cuore!
